@@ -1,10 +1,35 @@
-# mlops-trabalho-final
+# mlops-trab-final-front
 
-A parte do MLOPS coloquei oq o professor passou, ficou apenas faltando a parte dos modelos, mas n consegui rodar pelo meu lado.
-Acredito que o Model Manager seria quase o "serving"
+This template should help get you started developing with Vue 3 in Vite.
 
-    #modelo01 = joblib.load( '../models/modelo01.joblib')
-    #modelo02 = joblib.load( '../models/modelo02.joblib')
+## Recommended IDE Setup
 
-Pessoal deixei o inicio do MODELO MLP.
-Vou tentar deixar em um formato onde vai virar uma função que ao mandar uma entrada vai retornar as categorias pedidas no trabalho;
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
