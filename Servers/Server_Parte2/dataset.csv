@@ -1,0 +1,1001 @@
+Transaction ID;Date;Time;Card Type;Entry Mode;Amount;Transaction Type;Merchant Group;Transaction Country;Shipping Address;Billing Address;Gender;Age;Issuing Bank;Fraudulent
+1;19/10/2023;05:31;MasterCard;Tap;391.56;POS;Clothing;Italy;61 Redwood St;726 Maple St;Female;55;XYZ Bank;No
+2;16/10/2023;12:56;MasterCard;Tap;167.67;Online;Clothing;France;945 Pine St;252 Cedar St;Male;37;DEF Bank;No
+3;29/09/2023;07:57;MasterCard;PIN;126.24;Online;Electronics;Spain;773 Oak St;177 Main St;Male;53;ABC Bank;No
+4;13/10/2023;00:08;MasterCard;Tap;496.8;Online;Electronics;UK;436 Maple St;758 Main St;Male;21;DEF Bank;No
+5;02/10/2023;23:19;MasterCard;Tap;446.88;POS;Grocery;France;887 Pine St;629 Main St;Male;52;XYZ Bank;No
+6;03/10/2023;18:32;Visa;PIN;364.98;POS;Clothing;USA;512 Maple St;824 Birch St;Male;68;XYZ Bank;No
+7;28/09/2023;03:51;MasterCard;Tap;392.7;Online;Electronics;Italy;748 Elm St;842 Main St;Female;48;ABC Bank;No
+8;18/09/2023;21:25;Visa;PIN;488.92;POS;Grocery;Spain;141 Main St;259 Maple St;Male;65;ABC Bank;No
+9;07/10/2023;13:17;Visa;Tap;266.52;Online;Food;Germany;459 Cedar St;331 Redwood St;Male;23;DEF Bank;No
+10;10/10/2023;05:40;MasterCard;PIN;21.19;ATM;ATM Withdrawal;France;84 Pine St;215 Oak St;Female;29;DEF Bank;No
+11;23/09/2023;13:21;MasterCard;Tap;387.25;ATM;Grocery;Spain;341 Redwood St;936 Redwood St;Male;25;XYZ Bank;No
+12;30/09/2023;00:42;Visa;PIN;447.69;ATM;Food;Canada;632 Cedar St;129 Redwood St;Male;58;DEF Bank;No
+13;25/09/2023;19:21;MasterCard;Tap;182.98;Online;Clothing;UK;351 Main St;754 Cedar St;Female;59;ABC Bank;No
+14;20/10/2023;01:24;Visa;Tap;186.53;POS;Retail;France;544 Birch St;999 Pine St;Male;51;XYZ Bank;No
+15;03/10/2023;02:17;Visa;PIN;439.53;Online;Retail;USA;255 Main St;126 Pine St;Male;21;DEF Bank;No
+16;11/10/2023;10:15;MasterCard;Tap;251.63;POS;Electronics;France;728 Pine St;369 Pine St;Male;63;XYZ Bank;No
+17;04/10/2023;21:44;Visa;PIN;391.42;POS;Electronics;USA;749 Main St;183 Birch St;Female;63;DEF Bank;No
+18;12/10/2023;20:37;Visa;Tap;431.22;Online;Grocery;Germany;387 Redwood St;545 Elm St;Male;57;DEF Bank;No
+19;01/10/2023;08:25;Visa;Tap;342.23;POS;Retail;Spain;318 Maple St;589 Elm St;Female;68;ABC Bank;No
+20;18/10/2023;22:33;Visa;PIN;165.97;ATM;Grocery;USA;244 Redwood St;231 Oak St;Male;28;ABC Bank;No
+21;07/10/2023;05:04;MasterCard;PIN;236.16;ATM;ATM Withdrawal;Italy;432 Cedar St;119 Pine St;Male;67;DEF Bank;No
+22;25/09/2023;04:34;MasterCard;PIN;145.53;ATM;Electronics;France;696 Birch St;144 Birch St;Female;26;DEF Bank;No
+23;13/10/2023;21:49;Visa;Tap;492.44;ATM;Grocery;Spain;262 Maple St;509 Birch St;Female;18;DEF Bank;No
+24;20/10/2023;04:58;Visa;PIN;338.31;Online;ATM Withdrawal;Germany;982 Main St;176 Pine St;Male;20;XYZ Bank;No
+25;08/10/2023;05:12;Visa;Tap;195.11;Online;Retail;Italy;287 Elm St;323 Birch St;Male;58;ABC Bank;No
+26;15/10/2023;22:37;MasterCard;Tap;216.82;ATM;Clothing;Italy;378 Redwood St;523 Birch St;Female;33;ABC Bank;No
+27;18/09/2023;21:07;Visa;PIN;33.88;ATM;Clothing;Spain;761 Birch St;87 Cedar St;Female;59;DEF Bank;No
+28;21/10/2023;13:12;MasterCard;Tap;71.94;ATM;Grocery;Germany;285 Oak St;19 Pine St;Female;45;ABC Bank;No
+29;14/10/2023;05:30;MasterCard;Tap;310.02;ATM;ATM Withdrawal;Canada;596 Main St;393 Elm St;Female;27;ABC Bank;No
+30;29/09/2023;03:29;MasterCard;Tap;149.89;POS;Grocery;Germany;941 Birch St;594 Maple St;Female;28;ABC Bank;No
+31;19/10/2023;15:23;MasterCard;PIN;261.38;POS;Clothing;Canada;935 Oak St;252 Cedar St;Female;28;DEF Bank;No
+32;27/09/2023;11:10;Visa;Tap;198.09;ATM;Clothing;Germany;77 Oak St;242 Cedar St;Female;39;XYZ Bank;No
+33;04/10/2023;19:54;Visa;PIN;239.61;Online;ATM Withdrawal;Germany;295 Elm St;101 Elm St;Male;50;DEF Bank;No
+34;29/09/2023;20:19;Visa;PIN;391.64;POS;Clothing;France;166 Pine St;995 Redwood St;Male;19;XYZ Bank;No
+35;06/10/2023;13:06;Visa;Tap;304.95;ATM;ATM Withdrawal;France;105 Birch St;512 Elm St;Female;50;ABC Bank;No
+36;27/09/2023;05:55;Visa;PIN;106.52;Online;ATM Withdrawal;Germany;865 Cedar St;508 Main St;Male;48;ABC Bank;No
+37;26/09/2023;07:24;Visa;Tap;98.55;Online;Electronics;Germany;928 Elm St;567 Birch St;Male;57;ABC Bank;No
+38;22/10/2023;10:10;MasterCard;Tap;300.46;Online;Electronics;UK;278 Maple St;683 Main St;Male;35;ABC Bank;No
+39;13/10/2023;02:13;Visa;Tap;77.95;ATM;Electronics;UK;861 Redwood St;120 Oak St;Female;67;XYZ Bank;No
+40;02/10/2023;21:27;MasterCard;Tap;378.69;ATM;Retail;Germany;489 Oak St;427 Oak St;Male;47;XYZ Bank;No
+41;03/10/2023;06:41;Visa;Tap;414.99;ATM;Clothing;Canada;550 Oak St;148 Elm St;Female;42;XYZ Bank;No
+42;07/10/2023;18:13;Visa;PIN;177.09;ATM;Electronics;Canada;746 Main St;819 Redwood St;Female;23;XYZ Bank;No
+43;17/09/2023;00:22;MasterCard;Tap;346.46;POS;ATM Withdrawal;Italy;630 Cedar St;118 Cedar St;Female;60;XYZ Bank;No
+44;09/10/2023;02:30;MasterCard;Tap;290.48;Online;Clothing;Canada;380 Redwood St;913 Maple St;Female;19;XYZ Bank;No
+45;18/10/2023;08:31;Visa;PIN;274.02;POS;Electronics;France;686 Main St;741 Oak St;Female;43;ABC Bank;No
+46;28/09/2023;19:17;MasterCard;PIN;429.58;Online;Retail;Canada;119 Redwood St;436 Elm St;Female;18;XYZ Bank;No
+47;18/09/2023;23:47;MasterCard;Tap;478.84;ATM;ATM Withdrawal;France;91 Elm St;374 Elm St;Male;21;XYZ Bank;No
+48;05/10/2023;05:18;Visa;PIN;384.63;Online;Electronics;Canada;34 Main St;522 Redwood St;Male;33;DEF Bank;No
+49;04/10/2023;01:06;MasterCard;Tap;498.58;Online;Food;Italy;102 Maple St;413 Elm St;Female;48;DEF Bank;No
+50;13/10/2023;23:51;Visa;PIN;281.16;Online;Retail;Italy;368 Pine St;604 Pine St;Male;41;XYZ Bank;No
+51;28/09/2023;21:09;MasterCard;PIN;122.48;Online;Food;Spain;58 Pine St;927 Elm St;Male;27;DEF Bank;No
+52;09/10/2023;10:27;MasterCard;Tap;20.18;ATM;Grocery;France;694 Elm St;839 Oak St;Female;35;ABC Bank;No
+53;27/09/2023;10:12;Visa;Tap;43.79;POS;Clothing;France;832 Oak St;968 Oak St;Male;55;ABC Bank;No
+54;21/09/2023;15:49;Visa;Tap;424.64;POS;ATM Withdrawal;France;449 Pine St;586 Oak St;Male;27;XYZ Bank;No
+55;03/10/2023;21:16;MasterCard;Tap;244.99;POS;Retail;Germany;450 Oak St;95 Elm St;Female;19;XYZ Bank;No
+56;21/09/2023;09:40;Visa;PIN;497.1;POS;Retail;Italy;890 Birch St;567 Oak St;Female;30;DEF Bank;No
+57;24/09/2023;21:45;Visa;Tap;226.29;ATM;ATM Withdrawal;France;61 Main St;185 Main St;Female;22;DEF Bank;No
+58;19/09/2023;17:46;Visa;PIN;221.6;ATM;Food;Spain;655 Cedar St;543 Elm St;Male;26;DEF Bank;No
+59;05/10/2023;00:02;Visa;Tap;115.09;ATM;Grocery;Germany;421 Maple St;555 Birch St;Male;64;ABC Bank;No
+60;17/10/2023;17:25;Visa;PIN;268.14;Online;Grocery;USA;17 Maple St;58 Cedar St;Male;45;DEF Bank;No
+61;05/10/2023;05:36;MasterCard;Tap;359.64;Online;ATM Withdrawal;USA;365 Redwood St;417 Birch St;Male;51;XYZ Bank;No
+62;19/09/2023;21:25;Visa;Tap;314.02;POS;Food;UK;508 Cedar St;81 Main St;Male;68;ABC Bank;No
+63;19/09/2023;12:04;MasterCard;PIN;412.39;POS;Retail;Canada;51 Main St;941 Birch St;Female;65;DEF Bank;No
+64;26/09/2023;08:27;Visa;PIN;274.69;ATM;Clothing;UK;914 Oak St;521 Pine St;Male;45;DEF Bank;No
+65;23/09/2023;10:23;Visa;PIN;174.31;Online;Electronics;Spain;857 Cedar St;263 Oak St;Male;64;ABC Bank;No
+66;20/10/2023;04:35;MasterCard;PIN;240.66;POS;Electronics;USA;384 Redwood St;65 Maple St;Male;63;ABC Bank;No
+67;07/10/2023;12:59;Visa;PIN;148.47;POS;Grocery;Germany;164 Redwood St;776 Maple St;Male;60;DEF Bank;No
+68;17/09/2023;15:52;MasterCard;PIN;432.8;ATM;ATM Withdrawal;Italy;774 Pine St;196 Birch St;Male;51;ABC Bank;No
+69;28/09/2023;17:49;Visa;PIN;448.7;POS;Retail;Italy;701 Pine St;307 Elm St;Female;45;XYZ Bank;No
+70;06/10/2023;23:40;MasterCard;PIN;120.85;Online;Retail;Canada;451 Cedar St;425 Redwood St;Female;59;ABC Bank;No
+71;17/09/2023;13:11;MasterCard;PIN;292.81;POS;Grocery;USA;347 Pine St;731 Cedar St;Male;41;ABC Bank;No
+72;17/10/2023;17:55;MasterCard;PIN;124.15;POS;Electronics;Germany;362 Redwood St;385 Redwood St;Male;63;DEF Bank;No
+73;17/09/2023;23:36;MasterCard;PIN;235.56;POS;Electronics;Italy;559 Redwood St;517 Redwood St;Male;64;XYZ Bank;No
+74;29/09/2023;13:07;MasterCard;Tap;108.99;Online;Grocery;UK;751 Birch St;726 Birch St;Female;49;ABC Bank;No
+75;21/10/2023;01:19;Visa;PIN;311.83;ATM;Clothing;Canada;253 Oak St;79 Maple St;Female;46;XYZ Bank;No
+76;26/09/2023;09:02;MasterCard;PIN;295.22;Online;ATM Withdrawal;Italy;894 Oak St;345 Elm St;Male;19;ABC Bank;No
+77;12/10/2023;10:40;Visa;PIN;485.0;POS;ATM Withdrawal;Canada;27 Main St;166 Birch St;Male;64;DEF Bank;No
+78;02/10/2023;20:09;MasterCard;PIN;476.0;ATM;Retail;UK;782 Redwood St;99 Cedar St;Male;68;ABC Bank;No
+79;19/10/2023;12:51;MasterCard;Tap;446.98;POS;Grocery;Germany;615 Oak St;52 Birch St;Female;65;ABC Bank;No
+80;20/09/2023;20:56;Visa;Tap;234.13;ATM;Food;UK;391 Maple St;412 Elm St;Female;40;XYZ Bank;No
+81;15/10/2023;04:14;Visa;Tap;199.86;POS;Electronics;France;298 Elm St;722 Cedar St;Female;41;XYZ Bank;No
+82;18/09/2023;21:32;Visa;PIN;55.42;ATM;ATM Withdrawal;UK;294 Pine St;584 Pine St;Male;23;XYZ Bank;No
+83;14/10/2023;18:41;Visa;PIN;234.67;POS;Food;France;22 Birch St;764 Pine St;Female;67;DEF Bank;No
+84;16/10/2023;10:50;Visa;PIN;264.22;Online;Electronics;USA;161 Oak St;196 Birch St;Female;57;XYZ Bank;No
+85;12/10/2023;04:54;Visa;PIN;339.59;Online;Electronics;France;971 Oak St;207 Pine St;Male;61;DEF Bank;No
+86;05/10/2023;16:22;MasterCard;Tap;347.87;Online;Food;UK;744 Cedar St;873 Pine St;Male;32;ABC Bank;No
+87;08/10/2023;07:55;MasterCard;PIN;30.96;POS;Retail;Canada;963 Main St;839 Birch St;Male;36;DEF Bank;No
+88;14/10/2023;07:11;MasterCard;PIN;132.05;POS;Clothing;Canada;524 Birch St;673 Redwood St;Female;58;ABC Bank;No
+89;17/10/2023;18:31;MasterCard;PIN;499.33;ATM;Grocery;Italy;677 Maple St;471 Cedar St;Male;37;XYZ Bank;No
+90;18/09/2023;20:10;MasterCard;Tap;498.55;POS;Grocery;Spain;210 Main St;903 Cedar St;Female;37;ABC Bank;No
+91;16/10/2023;21:37;Visa;Tap;105.24;Online;Electronics;Italy;98 Elm St;227 Maple St;Male;46;DEF Bank;No
+92;16/10/2023;05:38;Visa;Tap;31.76;ATM;Electronics;Italy;536 Pine St;945 Pine St;Female;43;ABC Bank;Yes
+93;21/09/2023;10:53;Visa;Tap;385.54;POS;Food;Spain;871 Pine St;499 Pine St;Male;65;ABC Bank;No
+94;25/09/2023;14:21;Visa;Tap;393.86;Online;Grocery;France;982 Oak St;516 Maple St;Female;70;DEF Bank;No
+95;06/10/2023;23:23;Visa;PIN;329.79;ATM;Electronics;Germany;932 Oak St;123 Elm St;Female;31;ABC Bank;No
+96;22/09/2023;12:01;MasterCard;PIN;357.77;POS;ATM Withdrawal;France;889 Redwood St;341 Cedar St;Female;34;DEF Bank;No
+97;20/09/2023;01:22;MasterCard;Tap;310.99;ATM;Food;Germany;693 Oak St;454 Elm St;Female;31;XYZ Bank;No
+98;12/10/2023;19:31;Visa;Tap;333.61;ATM;ATM Withdrawal;Canada;795 Pine St;285 Main St;Female;67;XYZ Bank;No
+99;18/09/2023;06:31;MasterCard;Tap;454.83;ATM;Grocery;UK;800 Main St;736 Cedar St;Male;62;XYZ Bank;No
+100;22/10/2023;22:12;MasterCard;Tap;435.84;Online;Electronics;Italy;671 Cedar St;825 Redwood St;Male;35;XYZ Bank;No
+101;21/09/2023;13:37;Visa;PIN;403.91;Online;Retail;UK;828 Cedar St;1 Pine St;Male;48;ABC Bank;No
+102;21/10/2023;14:41;MasterCard;PIN;394.61;Online;Clothing;Germany;569 Cedar St;456 Pine St;Male;51;ABC Bank;No
+103;21/09/2023;12:20;Visa;PIN;298.18;Online;Retail;Spain;810 Oak St;12 Elm St;Female;56;ABC Bank;No
+104;18/10/2023;12:31;Visa;Tap;498.59;ATM;Grocery;UK;276 Birch St;475 Elm St;Female;51;ABC Bank;No
+105;22/10/2023;16:53;MasterCard;PIN;384.84;POS;Clothing;France;452 Pine St;97 Birch St;Female;41;XYZ Bank;No
+106;29/09/2023;19:52;MasterCard;Tap;454.54;Online;Clothing;Canada;931 Pine St;409 Maple St;Male;36;ABC Bank;No
+107;14/10/2023;11:15;Visa;PIN;65.17;POS;Food;USA;779 Main St;96 Pine St;Female;69;ABC Bank;No
+108;24/09/2023;13:33;Visa;Tap;189.37;POS;Retail;UK;637 Birch St;595 Birch St;Male;69;XYZ Bank;No
+109;11/10/2023;07:51;Visa;PIN;48.14;POS;ATM Withdrawal;UK;645 Pine St;306 Cedar St;Male;52;XYZ Bank;No
+110;22/10/2023;11:40;MasterCard;Tap;397.37;ATM;Retail;UK;86 Redwood St;372 Maple St;Male;53;XYZ Bank;No
+111;05/10/2023;05:00;Visa;Tap;104.06;ATM;Clothing;Spain;547 Oak St;488 Main St;Female;28;XYZ Bank;No
+112;22/10/2023;16:04;MasterCard;PIN;190.63;Online;Grocery;Italy;583 Maple St;912 Redwood St;Male;70;XYZ Bank;No
+113;27/09/2023;14:38;MasterCard;Tap;242.97;Online;ATM Withdrawal;UK;79 Maple St;811 Redwood St;Male;50;XYZ Bank;Yes
+114;17/09/2023;05:38;MasterCard;Tap;220.65;ATM;Clothing;Canada;196 Oak St;414 Redwood St;Male;62;XYZ Bank;No
+115;12/10/2023;11:50;MasterCard;PIN;479.68;POS;ATM Withdrawal;USA;856 Main St;61 Oak St;Female;54;ABC Bank;No
+116;11/10/2023;00:08;Visa;PIN;129.68;Online;Electronics;USA;646 Maple St;367 Main St;Male;47;XYZ Bank;No
+117;24/09/2023;13:17;Visa;PIN;341.04;Online;ATM Withdrawal;UK;668 Pine St;167 Main St;Female;32;XYZ Bank;No
+118;05/10/2023;15:39;MasterCard;PIN;316.3;POS;ATM Withdrawal;Canada;571 Redwood St;280 Pine St;Male;50;ABC Bank;No
+119;06/10/2023;11:44;MasterCard;Tap;26.11;Online;Clothing;Germany;434 Main St;73 Pine St;Male;42;DEF Bank;No
+120;17/09/2023;18:09;Visa;PIN;76.44;ATM;Grocery;UK;287 Maple St;833 Oak St;Male;34;XYZ Bank;No
+121;06/10/2023;13:47;Visa;PIN;220.6;POS;Food;Italy;141 Oak St;777 Elm St;Male;40;DEF Bank;No
+122;09/10/2023;23:33;MasterCard;Tap;284.25;POS;ATM Withdrawal;UK;725 Birch St;916 Birch St;Female;23;ABC Bank;No
+123;21/09/2023;13:10;Visa;Tap;239.08;ATM;Retail;Canada;831 Maple St;730 Oak St;Male;25;XYZ Bank;Yes
+124;04/10/2023;09:15;MasterCard;PIN;469.83;POS;Grocery;USA;173 Oak St;222 Pine St;Male;46;DEF Bank;No
+125;09/10/2023;16:01;MasterCard;PIN;205.88;POS;ATM Withdrawal;UK;613 Cedar St;505 Maple St;Male;25;ABC Bank;No
+126;09/10/2023;02:35;MasterCard;Tap;495.78;POS;ATM Withdrawal;Spain;538 Birch St;298 Redwood St;Female;41;ABC Bank;No
+127;21/09/2023;06:04;MasterCard;Tap;130.89;Online;Food;Spain;5 Pine St;983 Elm St;Male;20;ABC Bank;No
+128;10/10/2023;11:54;MasterCard;Tap;353.48;Online;Clothing;France;345 Birch St;990 Pine St;Male;56;XYZ Bank;Yes
+129;19/09/2023;19:59;MasterCard;PIN;479.19;ATM;Retail;USA;731 Cedar St;495 Oak St;Female;42;XYZ Bank;No
+130;09/10/2023;01:22;MasterCard;PIN;404.29;ATM;Food;France;898 Redwood St;957 Elm St;Female;52;ABC Bank;No
+131;16/10/2023;02:10;MasterCard;Tap;110.17;Online;Grocery;USA;229 Redwood St;273 Main St;Male;54;DEF Bank;No
+132;16/10/2023;18:11;Visa;Tap;295.91;ATM;Grocery;Canada;932 Oak St;571 Elm St;Female;66;DEF Bank;No
+133;08/10/2023;14:03;Visa;PIN;458.11;Online;ATM Withdrawal;UK;210 Cedar St;507 Oak St;Male;70;DEF Bank;No
+134;14/10/2023;14:08;MasterCard;PIN;357.45;POS;Retail;Spain;829 Oak St;276 Main St;Female;40;XYZ Bank;No
+135;23/09/2023;12:27;Visa;PIN;265.19;Online;Food;Germany;24 Birch St;978 Birch St;Male;55;DEF Bank;No
+136;20/10/2023;19:54;MasterCard;Tap;286.18;ATM;ATM Withdrawal;France;175 Birch St;675 Redwood St;Female;21;DEF Bank;No
+137;10/10/2023;08:27;MasterCard;Tap;273.11;ATM;ATM Withdrawal;Canada;830 Elm St;848 Elm St;Male;45;DEF Bank;No
+138;03/10/2023;16:47;Visa;Tap;172.35;ATM;ATM Withdrawal;Spain;353 Pine St;932 Redwood St;Male;44;XYZ Bank;Yes
+139;03/10/2023;17:51;MasterCard;PIN;168.13;POS;Electronics;France;140 Cedar St;515 Pine St;Female;47;XYZ Bank;No
+140;15/10/2023;22:01;Visa;Tap;428.09;Online;Clothing;France;425 Oak St;287 Pine St;Female;43;DEF Bank;No
+141;30/09/2023;07:48;Visa;Tap;244.73;Online;Electronics;UK;128 Oak St;292 Maple St;Male;29;XYZ Bank;No
+142;15/10/2023;12:16;Visa;PIN;87.95;Online;Grocery;Spain;110 Redwood St;673 Redwood St;Male;61;XYZ Bank;No
+143;24/09/2023;09:28;MasterCard;PIN;367.09;Online;Clothing;UK;646 Redwood St;90 Elm St;Female;24;ABC Bank;No
+144;27/09/2023;03:31;Visa;PIN;141.71;ATM;Food;USA;493 Birch St;551 Pine St;Female;48;DEF Bank;No
+145;22/09/2023;14:38;MasterCard;Tap;80.99;Online;Electronics;Italy;633 Main St;497 Elm St;Female;67;DEF Bank;No
+146;22/09/2023;15:48;Visa;Tap;432.43;Online;Clothing;France;749 Main St;32 Redwood St;Male;38;XYZ Bank;No
+147;17/09/2023;06:39;Visa;PIN;452.12;POS;Food;France;264 Oak St;678 Main St;Female;62;ABC Bank;No
+148;07/10/2023;13:15;Visa;Tap;149.42;ATM;ATM Withdrawal;USA;564 Main St;144 Oak St;Female;70;XYZ Bank;No
+149;28/09/2023;12:15;MasterCard;PIN;38.16;POS;ATM Withdrawal;USA;405 Oak St;368 Elm St;Male;33;XYZ Bank;No
+150;16/10/2023;21:46;MasterCard;Tap;100.65;POS;Food;Spain;78 Redwood St;599 Pine St;Male;36;DEF Bank;No
+151;15/10/2023;13:08;MasterCard;Tap;232.71;Online;Electronics;UK;514 Maple St;936 Birch St;Female;30;DEF Bank;No
+152;21/10/2023;14:42;Visa;Tap;335.79;POS;Electronics;UK;876 Redwood St;709 Cedar St;Female;32;DEF Bank;No
+153;17/09/2023;07:02;Visa;Tap;76.7;POS;Grocery;France;21 Oak St;946 Maple St;Female;28;XYZ Bank;No
+154;18/10/2023;08:54;MasterCard;Tap;235.73;ATM;Clothing;Spain;651 Birch St;927 Cedar St;Male;49;XYZ Bank;No
+155;21/10/2023;11:32;Visa;Tap;185.6;POS;Electronics;Spain;376 Birch St;123 Main St;Male;53;XYZ Bank;No
+156;22/09/2023;23:52;MasterCard;Tap;58.61;POS;ATM Withdrawal;Italy;555 Elm St;225 Oak St;Female;36;XYZ Bank;No
+157;10/10/2023;10:37;Visa;Tap;388.5;POS;Grocery;UK;575 Main St;130 Birch St;Female;29;XYZ Bank;No
+158;21/09/2023;07:08;Visa;PIN;457.05;ATM;Clothing;Spain;782 Pine St;547 Maple St;Male;18;XYZ Bank;No
+159;17/10/2023;16:39;Visa;PIN;381.03;POS;Electronics;USA;893 Pine St;608 Pine St;Female;19;DEF Bank;No
+160;19/10/2023;05:04;Visa;PIN;62.95;ATM;Grocery;USA;941 Maple St;81 Redwood St;Male;42;DEF Bank;No
+161;11/10/2023;11:29;MasterCard;Tap;116.6;ATM;Grocery;Spain;221 Pine St;577 Main St;Female;24;ABC Bank;No
+162;19/10/2023;22:13;MasterCard;PIN;335.37;ATM;Food;Germany;128 Main St;91 Redwood St;Female;58;ABC Bank;No
+163;04/10/2023;14:49;Visa;PIN;286.32;POS;Grocery;UK;256 Pine St;125 Elm St;Male;19;DEF Bank;No
+164;02/10/2023;19:14;MasterCard;Tap;483.41;POS;ATM Withdrawal;France;911 Oak St;822 Birch St;Female;20;XYZ Bank;No
+165;16/10/2023;21:38;MasterCard;Tap;25.81;POS;Electronics;Italy;698 Pine St;309 Birch St;Male;69;ABC Bank;No
+166;07/10/2023;18:01;MasterCard;PIN;442.79;Online;Retail;UK;373 Main St;961 Elm St;Female;56;ABC Bank;No
+167;19/10/2023;08:20;Visa;PIN;284.1;Online;Electronics;Spain;974 Oak St;460 Pine St;Male;32;ABC Bank;No
+168;22/10/2023;19:45;MasterCard;PIN;427.97;ATM;Electronics;France;353 Pine St;330 Redwood St;Female;25;XYZ Bank;No
+169;29/09/2023;00:30;MasterCard;PIN;332.01;ATM;Grocery;Italy;111 Elm St;222 Cedar St;Male;45;ABC Bank;No
+170;08/10/2023;06:39;Visa;PIN;434.13;Online;Food;Germany;235 Redwood St;663 Oak St;Female;60;ABC Bank;No
+171;03/10/2023;13:57;MasterCard;PIN;81.37;ATM;Clothing;Germany;891 Maple St;940 Pine St;Female;52;XYZ Bank;No
+172;03/10/2023;04:32;Visa;Tap;276.2;POS;ATM Withdrawal;France;510 Cedar St;824 Redwood St;Female;44;DEF Bank;No
+173;18/09/2023;11:48;MasterCard;PIN;141.85;ATM;Clothing;Canada;835 Maple St;626 Elm St;Male;46;DEF Bank;No
+174;13/10/2023;16:12;Visa;PIN;180.21;Online;Grocery;Canada;420 Pine St;348 Cedar St;Male;33;XYZ Bank;No
+175;15/10/2023;06:23;MasterCard;PIN;103.57;Online;ATM Withdrawal;Germany;300 Main St;404 Redwood St;Male;62;ABC Bank;No
+176;03/10/2023;02:19;Visa;PIN;133.8;Online;Grocery;UK;755 Main St;845 Maple St;Female;20;XYZ Bank;No
+177;03/10/2023;16:49;Visa;Tap;22.29;ATM;Food;UK;301 Main St;341 Oak St;Male;66;XYZ Bank;No
+178;10/10/2023;13:11;MasterCard;Tap;495.33;Online;ATM Withdrawal;France;774 Maple St;341 Birch St;Male;52;ABC Bank;No
+179;29/09/2023;07:17;MasterCard;PIN;452.32;ATM;Retail;USA;786 Maple St;785 Elm St;Female;43;ABC Bank;No
+180;11/10/2023;09:09;MasterCard;PIN;97.28;ATM;Clothing;Germany;119 Oak St;41 Oak St;Female;54;ABC Bank;No
+181;29/09/2023;04:12;Visa;Tap;137.83;Online;ATM Withdrawal;France;376 Redwood St;763 Cedar St;Female;61;DEF Bank;No
+182;07/10/2023;23:51;Visa;Tap;390.29;ATM;Retail;USA;999 Redwood St;641 Pine St;Female;65;XYZ Bank;No
+183;08/10/2023;09:48;MasterCard;PIN;56.49;POS;Electronics;France;687 Redwood St;641 Cedar St;Female;30;DEF Bank;No
+184;28/09/2023;16:06;MasterCard;Tap;67.6;POS;ATM Withdrawal;USA;380 Pine St;25 Main St;Male;26;DEF Bank;No
+185;22/09/2023;07:05;MasterCard;PIN;182.41;POS;ATM Withdrawal;UK;295 Cedar St;52 Birch St;Male;36;XYZ Bank;No
+186;23/09/2023;03:49;MasterCard;PIN;428.92;ATM;Grocery;USA;171 Oak St;539 Elm St;Female;24;DEF Bank;No
+187;30/09/2023;23:41;MasterCard;PIN;257.17;POS;Retail;France;21 Maple St;470 Oak St;Male;49;ABC Bank;No
+188;21/09/2023;17:14;Visa;Tap;211.1;Online;ATM Withdrawal;UK;997 Main St;940 Main St;Male;64;DEF Bank;No
+189;04/10/2023;18:12;MasterCard;Tap;234.57;ATM;Grocery;Germany;392 Main St;452 Birch St;Female;23;ABC Bank;No
+190;03/10/2023;21:12;Visa;PIN;37.5;POS;Retail;USA;333 Birch St;225 Pine St;Female;24;DEF Bank;No
+191;24/09/2023;02:50;Visa;Tap;479.53;Online;Clothing;Spain;158 Elm St;622 Elm St;Male;27;DEF Bank;No
+192;22/10/2023;16:37;MasterCard;Tap;369.15;Online;Grocery;USA;235 Elm St;233 Cedar St;Female;53;ABC Bank;No
+193;14/10/2023;13:13;Visa;PIN;132.14;Online;Clothing;Italy;273 Birch St;305 Cedar St;Male;63;ABC Bank;No
+194;06/10/2023;22:41;Visa;Tap;25.48;Online;Electronics;Germany;860 Birch St;636 Pine St;Female;49;ABC Bank;No
+195;23/09/2023;10:38;Visa;PIN;274.84;POS;Retail;UK;283 Birch St;335 Cedar St;Female;54;XYZ Bank;No
+196;18/09/2023;11:25;MasterCard;Tap;218.18;Online;ATM Withdrawal;Germany;773 Pine St;85 Pine St;Male;44;XYZ Bank;No
+197;24/09/2023;17:21;MasterCard;PIN;225.26;Online;Clothing;UK;403 Redwood St;305 Main St;Male;62;DEF Bank;No
+198;25/09/2023;03:58;MasterCard;PIN;187.75;POS;Electronics;Italy;525 Pine St;956 Redwood St;Male;59;DEF Bank;No
+199;28/09/2023;08:48;MasterCard;PIN;359.36;ATM;Retail;Germany;65 Oak St;669 Pine St;Male;39;ABC Bank;No
+200;21/10/2023;23:55;MasterCard;PIN;51.56;Online;Retail;Spain;931 Elm St;905 Birch St;Female;69;ABC Bank;No
+201;01/10/2023;14:22;Visa;Tap;186.51;POS;Retail;Canada;27 Oak St;261 Elm St;Male;23;XYZ Bank;No
+202;18/10/2023;06:09;Visa;PIN;185.05;Online;ATM Withdrawal;Canada;154 Main St;572 Pine St;Male;49;ABC Bank;No
+203;01/10/2023;16:06;MasterCard;Tap;229.1;ATM;Clothing;USA;605 Cedar St;572 Maple St;Male;25;XYZ Bank;No
+204;21/09/2023;17:20;MasterCard;PIN;201.15;ATM;Retail;UK;888 Redwood St;864 Redwood St;Male;48;ABC Bank;No
+205;27/09/2023;05:54;Visa;Tap;346.22;POS;ATM Withdrawal;UK;262 Cedar St;347 Oak St;Male;32;DEF Bank;No
+206;21/10/2023;14:57;Visa;PIN;32.87;POS;Electronics;USA;205 Birch St;168 Cedar St;Male;61;DEF Bank;No
+207;02/10/2023;12:21;Visa;PIN;443.42;ATM;Food;Spain;635 Redwood St;606 Pine St;Male;19;DEF Bank;No
+208;21/10/2023;04:19;Visa;PIN;88.22;POS;Electronics;Spain;282 Pine St;689 Cedar St;Male;65;XYZ Bank;No
+209;10/10/2023;03:10;Visa;PIN;131.17;POS;Food;UK;322 Maple St;769 Birch St;Female;27;DEF Bank;No
+210;04/10/2023;22:28;MasterCard;Tap;453.41;Online;Grocery;UK;803 Elm St;667 Birch St;Male;53;ABC Bank;No
+211;13/10/2023;17:11;Visa;Tap;313.99;ATM;Electronics;Canada;58 Cedar St;653 Elm St;Female;40;DEF Bank;No
+212;21/09/2023;11:50;Visa;PIN;91.66;Online;Electronics;Spain;581 Elm St;341 Elm St;Female;55;XYZ Bank;No
+213;01/10/2023;14:53;Visa;Tap;176.26;Online;Electronics;Germany;861 Oak St;900 Birch St;Male;47;ABC Bank;No
+214;16/10/2023;05:53;Visa;PIN;195.73;ATM;Food;Spain;125 Oak St;654 Oak St;Male;67;DEF Bank;No
+215;11/10/2023;12:29;MasterCard;PIN;67.58;ATM;Electronics;UK;577 Pine St;337 Main St;Male;43;DEF Bank;No
+216;20/10/2023;06:11;MasterCard;PIN;65.14;POS;ATM Withdrawal;Canada;388 Cedar St;702 Birch St;Female;50;XYZ Bank;No
+217;17/10/2023;00:01;MasterCard;PIN;272.91;ATM;Grocery;USA;131 Redwood St;564 Elm St;Male;43;XYZ Bank;No
+218;04/10/2023;23:58;Visa;Tap;376.39;ATM;Food;Italy;568 Oak St;837 Elm St;Male;27;ABC Bank;Yes
+219;22/10/2023;04:10;MasterCard;PIN;198.78;Online;Electronics;Spain;582 Main St;101 Main St;Female;58;DEF Bank;No
+220;07/10/2023;03:13;MasterCard;Tap;331.15;POS;Electronics;Germany;61 Redwood St;525 Maple St;Female;20;DEF Bank;No
+221;23/09/2023;15:48;MasterCard;PIN;309.09;POS;ATM Withdrawal;Germany;35 Maple St;752 Redwood St;Male;66;ABC Bank;No
+222;24/09/2023;13:29;MasterCard;PIN;65.52;Online;Clothing;Spain;511 Oak St;397 Birch St;Male;38;ABC Bank;No
+223;18/10/2023;23:41;MasterCard;Tap;181.55;POS;Clothing;UK;242 Birch St;384 Main St;Male;27;XYZ Bank;No
+224;01/10/2023;15:24;Visa;Tap;488.37;POS;Electronics;UK;904 Oak St;57 Main St;Female;54;XYZ Bank;No
+225;27/09/2023;18:26;Visa;Tap;183.34;Online;ATM Withdrawal;France;301 Elm St;797 Oak St;Male;28;ABC Bank;No
+226;15/10/2023;08:43;MasterCard;Tap;24.68;Online;Clothing;USA;44 Birch St;356 Oak St;Female;47;ABC Bank;No
+227;19/09/2023;10:08;Visa;Tap;198.76;Online;Grocery;Spain;753 Birch St;258 Maple St;Male;48;XYZ Bank;No
+228;11/10/2023;22:52;MasterCard;PIN;443.31;ATM;Electronics;UK;412 Pine St;988 Elm St;Male;65;DEF Bank;No
+229;13/10/2023;12:22;Visa;PIN;184.8;ATM;Electronics;USA;152 Main St;470 Birch St;Male;58;ABC Bank;No
+230;16/10/2023;14:53;Visa;Tap;333.78;POS;Electronics;France;261 Elm St;965 Cedar St;Female;32;DEF Bank;No
+231;11/10/2023;13:17;Visa;PIN;332.4;ATM;Retail;France;643 Redwood St;656 Pine St;Female;20;XYZ Bank;Yes
+232;09/10/2023;16:55;MasterCard;PIN;332.22;ATM;Grocery;Spain;345 Redwood St;252 Redwood St;Female;57;DEF Bank;No
+233;30/09/2023;03:38;Visa;PIN;257.84;Online;ATM Withdrawal;Italy;659 Main St;874 Elm St;Male;18;XYZ Bank;No
+234;13/10/2023;07:29;MasterCard;Tap;426.58;Online;Food;Spain;261 Main St;138 Birch St;Female;54;ABC Bank;No
+235;06/10/2023;12:05;Visa;PIN;478.77;POS;Retail;Italy;721 Maple St;508 Oak St;Female;48;XYZ Bank;No
+236;06/10/2023;21:20;Visa;Tap;278.87;ATM;ATM Withdrawal;UK;711 Pine St;575 Cedar St;Female;65;XYZ Bank;No
+237;18/09/2023;17:50;Visa;PIN;398.28;Online;Electronics;UK;403 Pine St;936 Oak St;Female;33;XYZ Bank;Yes
+238;01/10/2023;22:54;Visa;Tap;68.64;Online;ATM Withdrawal;Germany;128 Oak St;193 Main St;Male;21;DEF Bank;No
+239;19/10/2023;18:21;MasterCard;PIN;471.0;Online;Electronics;USA;300 Elm St;87 Elm St;Male;60;XYZ Bank;No
+240;12/10/2023;13:02;MasterCard;PIN;363.5;ATM;Electronics;Spain;788 Redwood St;444 Elm St;Male;60;DEF Bank;No
+241;07/10/2023;18:13;MasterCard;PIN;314.95;ATM;Electronics;France;103 Elm St;662 Birch St;Male;53;DEF Bank;No
+242;18/09/2023;03:26;MasterCard;Tap;161.32;Online;Electronics;Italy;463 Oak St;834 Main St;Female;70;ABC Bank;No
+243;19/10/2023;22:15;Visa;Tap;60.27;POS;Clothing;Italy;481 Maple St;542 Birch St;Male;19;DEF Bank;No
+244;15/10/2023;16:28;MasterCard;Tap;378.55;POS;Grocery;Germany;626 Birch St;627 Birch St;Male;62;XYZ Bank;Yes
+245;22/09/2023;01:20;MasterCard;PIN;98.42;Online;Grocery;Germany;230 Redwood St;67 Pine St;Female;43;XYZ Bank;No
+246;21/09/2023;19:28;MasterCard;Tap;348.05;ATM;Electronics;Canada;514 Pine St;684 Birch St;Male;54;XYZ Bank;No
+247;22/09/2023;00:53;MasterCard;Tap;213.77;Online;Electronics;USA;890 Oak St;862 Oak St;Male;54;XYZ Bank;No
+248;11/10/2023;00:50;Visa;Tap;399.45;POS;Food;Germany;485 Cedar St;352 Main St;Male;67;ABC Bank;No
+249;04/10/2023;14:26;Visa;PIN;418.78;POS;ATM Withdrawal;Italy;170 Elm St;384 Birch St;Male;23;XYZ Bank;No
+250;21/10/2023;04:39;Visa;PIN;442.53;Online;Clothing;Germany;931 Cedar St;414 Cedar St;Female;23;XYZ Bank;No
+251;24/09/2023;20:20;MasterCard;Tap;432.22;POS;Food;UK;400 Elm St;381 Maple St;Female;69;ABC Bank;No
+252;24/09/2023;13:50;Visa;PIN;405.34;POS;Grocery;UK;906 Maple St;426 Oak St;Male;41;XYZ Bank;No
+253;26/09/2023;05:01;Visa;PIN;75.42;POS;Retail;UK;499 Redwood St;25 Maple St;Female;32;XYZ Bank;No
+254;14/10/2023;13:07;MasterCard;Tap;461.43;Online;Food;Germany;777 Redwood St;915 Birch St;Male;60;XYZ Bank;No
+255;04/10/2023;08:49;Visa;Tap;201.11;ATM;Retail;Italy;532 Main St;614 Main St;Male;43;XYZ Bank;No
+256;23/09/2023;18:40;Visa;PIN;240.18;POS;Food;UK;913 Main St;855 Elm St;Female;45;XYZ Bank;No
+257;21/09/2023;21:28;MasterCard;Tap;481.12;POS;ATM Withdrawal;USA;591 Redwood St;530 Redwood St;Male;24;DEF Bank;No
+258;20/10/2023;14:38;Visa;PIN;202.12;POS;Grocery;Canada;121 Birch St;499 Pine St;Female;41;ABC Bank;No
+259;13/10/2023;09:00;MasterCard;PIN;343.96;POS;Grocery;France;958 Oak St;704 Pine St;Male;27;DEF Bank;No
+260;20/10/2023;19:22;MasterCard;Tap;111.97;POS;Grocery;Spain;678 Pine St;557 Main St;Female;54;ABC Bank;No
+261;05/10/2023;19:54;MasterCard;Tap;352.4;ATM;Electronics;UK;743 Birch St;276 Cedar St;Female;66;XYZ Bank;No
+262;19/10/2023;15:18;Visa;Tap;322.21;POS;Retail;USA;423 Birch St;606 Pine St;Male;69;ABC Bank;No
+263;18/09/2023;02:51;MasterCard;Tap;181.61;POS;Electronics;UK;121 Maple St;649 Pine St;Female;24;XYZ Bank;No
+264;21/09/2023;04:44;Visa;Tap;455.77;POS;Electronics;France;102 Oak St;719 Oak St;Female;52;XYZ Bank;No
+265;08/10/2023;10:58;Visa;Tap;91.74;ATM;Clothing;UK;939 Pine St;218 Cedar St;Male;26;DEF Bank;No
+266;30/09/2023;03:58;MasterCard;PIN;311.22;ATM;Retail;Spain;497 Main St;514 Oak St;Male;51;DEF Bank;No
+267;21/10/2023;19:28;MasterCard;Tap;382.66;Online;Electronics;USA;321 Birch St;875 Elm St;Male;18;DEF Bank;No
+268;29/09/2023;08:58;MasterCard;Tap;441.31;POS;Electronics;Germany;456 Birch St;863 Cedar St;Female;41;DEF Bank;No
+269;25/09/2023;13:31;MasterCard;PIN;323.06;POS;Grocery;France;515 Main St;975 Cedar St;Female;36;ABC Bank;No
+270;18/10/2023;12:13;MasterCard;Tap;395.0;ATM;Food;Spain;931 Redwood St;416 Birch St;Male;21;XYZ Bank;No
+271;17/10/2023;05:29;Visa;PIN;74.72;ATM;Grocery;Germany;184 Birch St;112 Birch St;Male;64;DEF Bank;No
+272;05/10/2023;06:53;MasterCard;PIN;26.32;POS;Retail;Canada;622 Redwood St;304 Redwood St;Male;51;ABC Bank;No
+273;22/09/2023;06:09;Visa;PIN;386.84;POS;Food;France;476 Main St;345 Maple St;Male;64;ABC Bank;No
+274;17/09/2023;03:55;Visa;Tap;401.32;POS;Electronics;Germany;403 Redwood St;678 Main St;Male;60;DEF Bank;No
+275;30/09/2023;20:51;MasterCard;PIN;246.13;ATM;Grocery;Italy;253 Maple St;72 Pine St;Male;23;ABC Bank;No
+276;16/10/2023;15:37;MasterCard;Tap;492.54;ATM;Food;USA;890 Redwood St;574 Oak St;Male;54;DEF Bank;No
+277;22/10/2023;10:07;Visa;Tap;319.14;ATM;Food;Italy;57 Oak St;365 Birch St;Male;41;DEF Bank;No
+278;28/09/2023;00:45;MasterCard;PIN;391.42;Online;Clothing;Spain;851 Elm St;911 Main St;Female;46;ABC Bank;No
+279;06/10/2023;17:07;Visa;PIN;113.0;Online;Grocery;UK;62 Elm St;128 Birch St;Female;19;ABC Bank;No
+280;09/10/2023;14:29;MasterCard;PIN;248.48;Online;Electronics;France;247 Elm St;689 Cedar St;Male;22;DEF Bank;No
+281;30/09/2023;16:40;MasterCard;PIN;171.51;Online;ATM Withdrawal;France;620 Oak St;449 Main St;Female;34;DEF Bank;No
+282;22/10/2023;08:48;Visa;PIN;197.01;Online;Grocery;Canada;255 Cedar St;741 Redwood St;Female;52;DEF Bank;No
+283;20/09/2023;23:07;MasterCard;PIN;308.91;POS;Grocery;Spain;763 Pine St;521 Pine St;Male;30;DEF Bank;No
+284;17/10/2023;11:40;MasterCard;PIN;264.5;POS;Electronics;Canada;953 Pine St;155 Pine St;Male;55;XYZ Bank;No
+285;01/10/2023;18:50;Visa;Tap;80.56;Online;Electronics;UK;7 Birch St;494 Elm St;Male;26;ABC Bank;No
+286;19/09/2023;14:52;Visa;Tap;137.16;Online;Clothing;Spain;175 Pine St;351 Maple St;Male;67;DEF Bank;No
+287;25/09/2023;20:26;Visa;Tap;59.36;POS;Clothing;Italy;816 Elm St;725 Redwood St;Female;22;DEF Bank;No
+288;14/10/2023;17:55;MasterCard;PIN;381.67;ATM;Electronics;Spain;20 Redwood St;482 Oak St;Male;37;XYZ Bank;No
+289;19/10/2023;21:55;Visa;PIN;321.45;ATM;Retail;USA;402 Elm St;872 Cedar St;Male;49;DEF Bank;No
+290;12/10/2023;05:37;MasterCard;PIN;443.35;POS;Retail;Canada;285 Maple St;69 Oak St;Female;47;ABC Bank;No
+291;10/10/2023;00:48;MasterCard;PIN;275.28;Online;Food;UK;412 Main St;952 Cedar St;Female;37;DEF Bank;No
+292;05/10/2023;05:31;Visa;Tap;61.05;Online;Electronics;Spain;300 Maple St;213 Maple St;Male;26;ABC Bank;No
+293;14/10/2023;07:11;MasterCard;PIN;301.32;Online;ATM Withdrawal;Italy;264 Pine St;837 Birch St;Male;27;ABC Bank;No
+294;13/10/2023;07:55;MasterCard;Tap;494.81;ATM;ATM Withdrawal;Italy;598 Birch St;590 Main St;Male;68;XYZ Bank;No
+295;08/10/2023;07:13;Visa;PIN;358.18;POS;ATM Withdrawal;Germany;542 Oak St;181 Birch St;Male;60;XYZ Bank;No
+296;17/10/2023;19:43;MasterCard;Tap;148.02;Online;Grocery;Canada;921 Main St;284 Elm St;Female;62;DEF Bank;No
+297;03/10/2023;04:05;MasterCard;Tap;238.19;POS;Grocery;Italy;380 Cedar St;425 Cedar St;Female;63;ABC Bank;No
+298;02/10/2023;11:20;MasterCard;Tap;181.47;ATM;Grocery;Spain;601 Redwood St;194 Redwood St;Female;24;DEF Bank;No
+299;12/10/2023;23:28;MasterCard;PIN;428.98;Online;Electronics;USA;350 Cedar St;832 Main St;Female;33;XYZ Bank;No
+300;27/09/2023;08:47;MasterCard;Tap;273.25;ATM;ATM Withdrawal;USA;72 Pine St;356 Oak St;Male;29;XYZ Bank;No
+301;19/09/2023;16:29;Visa;PIN;286.39;POS;Food;Canada;817 Cedar St;185 Birch St;Female;56;DEF Bank;No
+302;27/09/2023;11:15;Visa;PIN;295.98;Online;Grocery;Germany;569 Oak St;625 Elm St;Male;20;XYZ Bank;No
+303;02/10/2023;00:01;Visa;PIN;173.23;Online;Food;Germany;235 Elm St;729 Main St;Female;40;DEF Bank;No
+304;22/09/2023;00:50;Visa;Tap;169.29;Online;Clothing;Germany;216 Maple St;361 Cedar St;Female;46;DEF Bank;No
+305;22/10/2023;23:15;Visa;PIN;139.24;POS;Grocery;Canada;911 Cedar St;332 Pine St;Female;54;XYZ Bank;No
+306;01/10/2023;18:03;MasterCard;Tap;297.07;Online;Clothing;Spain;628 Main St;75 Pine St;Male;55;XYZ Bank;No
+307;10/10/2023;17:13;MasterCard;PIN;400.76;POS;Food;Germany;848 Elm St;714 Main St;Male;58;DEF Bank;No
+308;21/10/2023;20:00;Visa;Tap;35.88;Online;Clothing;Canada;149 Main St;254 Birch St;Male;42;DEF Bank;Yes
+309;27/09/2023;11:26;Visa;Tap;333.4;Online;Electronics;USA;766 Birch St;562 Main St;Female;68;DEF Bank;No
+310;30/09/2023;14:46;MasterCard;PIN;131.06;ATM;Grocery;UK;668 Elm St;509 Oak St;Male;60;XYZ Bank;No
+311;20/09/2023;15:44;MasterCard;Tap;216.11;Online;Clothing;France;809 Redwood St;484 Pine St;Male;30;XYZ Bank;No
+312;22/10/2023;04:32;Visa;PIN;462.96;POS;Clothing;Germany;881 Cedar St;189 Oak St;Female;57;ABC Bank;No
+313;19/09/2023;11:02;MasterCard;Tap;362.3;POS;Electronics;Italy;155 Cedar St;91 Maple St;Female;22;XYZ Bank;No
+314;05/10/2023;13:52;Visa;PIN;310.61;ATM;Electronics;Italy;941 Maple St;866 Cedar St;Female;39;XYZ Bank;No
+315;10/10/2023;05:23;MasterCard;Tap;31.74;POS;Food;USA;468 Elm St;305 Redwood St;Male;42;XYZ Bank;No
+316;25/09/2023;19:36;Visa;PIN;306.09;POS;Grocery;Canada;686 Pine St;656 Oak St;Male;54;XYZ Bank;No
+317;13/10/2023;23:35;MasterCard;PIN;364.62;POS;Grocery;USA;189 Redwood St;861 Elm St;Female;53;ABC Bank;No
+318;25/09/2023;10:23;MasterCard;PIN;397.0;ATM;Grocery;Canada;127 Maple St;204 Oak St;Male;48;XYZ Bank;No
+319;11/10/2023;17:06;Visa;Tap;492.48;POS;Clothing;Spain;222 Elm St;716 Main St;Male;40;DEF Bank;No
+320;21/10/2023;04:24;Visa;PIN;185.14;Online;Grocery;UK;553 Cedar St;264 Maple St;Female;54;DEF Bank;No
+321;29/09/2023;00:31;MasterCard;PIN;463.94;ATM;Grocery;Canada;630 Birch St;411 Main St;Male;60;ABC Bank;No
+322;30/09/2023;11:45;MasterCard;PIN;168.05;ATM;Electronics;Germany;322 Maple St;564 Redwood St;Female;21;ABC Bank;No
+323;21/09/2023;05:48;Visa;Tap;489.2;ATM;Grocery;Germany;888 Elm St;798 Maple St;Male;47;DEF Bank;No
+324;02/10/2023;14:51;MasterCard;Tap;152.82;POS;Retail;Germany;56 Cedar St;56 Cedar St;Male;25;ABC Bank;No
+325;15/10/2023;20:02;Visa;PIN;497.4;Online;Retail;France;43 Main St;374 Main St;Male;66;ABC Bank;No
+326;04/10/2023;04:32;MasterCard;Tap;434.05;ATM;Electronics;Canada;664 Maple St;161 Cedar St;Female;25;XYZ Bank;No
+327;27/09/2023;02:51;Visa;PIN;472.06;ATM;Electronics;Italy;970 Main St;848 Redwood St;Male;20;XYZ Bank;No
+328;05/10/2023;21:31;MasterCard;PIN;349.9;ATM;Food;Canada;259 Oak St;645 Cedar St;Female;19;ABC Bank;No
+329;22/09/2023;01:17;Visa;PIN;223.24;Online;Electronics;Italy;114 Maple St;414 Cedar St;Male;66;ABC Bank;No
+330;13/10/2023;01:10;Visa;Tap;279.05;Online;ATM Withdrawal;Germany;225 Redwood St;859 Maple St;Female;62;XYZ Bank;No
+331;02/10/2023;11:46;Visa;Tap;435.86;Online;Electronics;Italy;271 Pine St;382 Maple St;Male;30;DEF Bank;No
+332;22/09/2023;10:29;Visa;Tap;78.54;ATM;Retail;USA;438 Redwood St;355 Pine St;Female;45;XYZ Bank;No
+333;09/10/2023;22:02;MasterCard;Tap;65.36;POS;Electronics;Germany;656 Redwood St;606 Main St;Female;25;DEF Bank;No
+334;01/10/2023;16:04;Visa;Tap;469.0;ATM;ATM Withdrawal;USA;469 Oak St;882 Birch St;Female;56;DEF Bank;No
+335;29/09/2023;12:46;Visa;Tap;108.1;ATM;Retail;Germany;249 Elm St;711 Oak St;Female;68;XYZ Bank;No
+336;18/09/2023;17:31;MasterCard;PIN;51.1;POS;Electronics;Spain;338 Redwood St;776 Birch St;Female;41;ABC Bank;No
+337;08/10/2023;14:21;MasterCard;Tap;58.93;POS;Clothing;UK;327 Oak St;757 Redwood St;Male;50;DEF Bank;Yes
+338;13/10/2023;08:57;MasterCard;PIN;317.93;ATM;Electronics;Germany;48 Redwood St;456 Cedar St;Female;64;ABC Bank;No
+339;27/09/2023;16:42;Visa;Tap;302.51;Online;Clothing;Canada;952 Elm St;395 Cedar St;Female;68;DEF Bank;No
+340;09/10/2023;15:19;MasterCard;Tap;457.6;ATM;Retail;France;102 Pine St;658 Maple St;Female;19;XYZ Bank;No
+341;08/10/2023;04:39;MasterCard;PIN;390.56;ATM;Retail;Canada;996 Birch St;398 Pine St;Female;51;XYZ Bank;No
+342;24/09/2023;02:23;MasterCard;Tap;339.91;ATM;Electronics;UK;410 Cedar St;336 Oak St;Male;36;DEF Bank;No
+343;19/10/2023;22:38;MasterCard;PIN;345.9;ATM;Retail;Canada;130 Oak St;780 Pine St;Male;67;DEF Bank;No
+344;16/10/2023;23:24;MasterCard;Tap;168.44;Online;Food;France;263 Cedar St;799 Elm St;Male;26;ABC Bank;No
+345;21/09/2023;09:47;MasterCard;PIN;255.32;Online;Electronics;France;276 Pine St;658 Oak St;Male;53;DEF Bank;No
+346;18/10/2023;06:36;Visa;Tap;473.19;POS;Electronics;Canada;114 Redwood St;579 Maple St;Female;40;XYZ Bank;No
+347;26/09/2023;06:28;Visa;PIN;369.35;ATM;Grocery;France;100 Main St;950 Elm St;Male;42;DEF Bank;No
+348;01/10/2023;10:40;MasterCard;Tap;436.44;Online;ATM Withdrawal;Canada;447 Maple St;345 Cedar St;Male;34;ABC Bank;No
+349;08/10/2023;03:28;Visa;PIN;238.99;POS;Clothing;Canada;738 Main St;481 Redwood St;Male;39;ABC Bank;No
+350;24/09/2023;10:00;MasterCard;PIN;91.41;ATM;Grocery;USA;475 Pine St;618 Redwood St;Female;28;ABC Bank;No
+351;16/10/2023;09:32;Visa;PIN;317.75;Online;Grocery;UK;892 Cedar St;913 Birch St;Male;26;ABC Bank;No
+352;24/09/2023;23:42;MasterCard;Tap;240.03;POS;Food;France;491 Redwood St;679 Pine St;Female;42;ABC Bank;No
+353;02/10/2023;06:15;Visa;PIN;261.09;POS;Clothing;Germany;212 Elm St;379 Birch St;Female;56;ABC Bank;No
+354;21/10/2023;06:19;Visa;Tap;308.53;POS;ATM Withdrawal;France;68 Pine St;803 Maple St;Male;35;DEF Bank;Yes
+355;05/10/2023;11:06;Visa;PIN;40.55;Online;Clothing;Italy;719 Pine St;140 Birch St;Male;39;ABC Bank;No
+356;18/10/2023;16:12;Visa;PIN;333.26;Online;Electronics;France;558 Cedar St;784 Pine St;Male;42;ABC Bank;No
+357;01/10/2023;17:42;MasterCard;PIN;41.21;POS;Clothing;France;189 Cedar St;350 Maple St;Female;64;XYZ Bank;Yes
+358;30/09/2023;14:05;MasterCard;PIN;496.39;Online;Electronics;Spain;97 Maple St;21 Birch St;Male;68;DEF Bank;No
+359;17/09/2023;09:35;MasterCard;Tap;113.04;ATM;Retail;Spain;596 Elm St;370 Elm St;Female;68;DEF Bank;No
+360;06/10/2023;17:14;Visa;Tap;240.08;POS;Grocery;Canada;498 Oak St;10 Elm St;Male;54;XYZ Bank;No
+361;22/09/2023;07:27;MasterCard;Tap;34.41;Online;Food;Italy;940 Oak St;942 Maple St;Female;42;XYZ Bank;No
+362;12/10/2023;03:09;Visa;PIN;495.54;ATM;Retail;UK;988 Redwood St;957 Pine St;Male;41;ABC Bank;No
+363;11/10/2023;01:28;MasterCard;Tap;226.91;POS;Food;France;388 Cedar St;350 Oak St;Male;25;DEF Bank;No
+364;23/09/2023;09:20;MasterCard;Tap;452.77;ATM;Food;Germany;997 Main St;649 Redwood St;Female;57;DEF Bank;No
+365;23/09/2023;17:55;Visa;Tap;402.13;POS;Grocery;Germany;761 Elm St;937 Birch St;Male;37;ABC Bank;No
+366;06/10/2023;10:25;Visa;PIN;233.01;Online;ATM Withdrawal;Germany;209 Birch St;172 Oak St;Male;30;DEF Bank;No
+367;17/09/2023;09:02;MasterCard;Tap;285.03;ATM;Grocery;Italy;328 Cedar St;98 Redwood St;Female;36;XYZ Bank;No
+368;02/10/2023;06:34;Visa;Tap;112.78;Online;Food;Canada;638 Maple St;176 Main St;Female;50;ABC Bank;Yes
+369;18/10/2023;12:55;Visa;Tap;65.66;Online;Grocery;UK;850 Elm St;894 Oak St;Male;34;ABC Bank;No
+370;18/10/2023;14:54;Visa;Tap;340.21;ATM;Retail;France;285 Pine St;404 Redwood St;Male;48;DEF Bank;No
+371;07/10/2023;10:48;MasterCard;PIN;454.86;Online;ATM Withdrawal;USA;918 Oak St;573 Maple St;Female;30;XYZ Bank;No
+372;26/09/2023;18:03;MasterCard;Tap;486.63;Online;Clothing;Italy;977 Redwood St;776 Pine St;Female;31;DEF Bank;No
+373;08/10/2023;01:27;Visa;Tap;355.93;Online;Clothing;USA;582 Birch St;679 Redwood St;Male;50;XYZ Bank;No
+374;29/09/2023;00:25;Visa;Tap;248.62;ATM;Electronics;Canada;377 Pine St;885 Pine St;Female;34;ABC Bank;No
+375;07/10/2023;14:48;Visa;Tap;493.17;POS;Clothing;Germany;83 Birch St;893 Maple St;Male;24;DEF Bank;No
+376;12/10/2023;03:16;Visa;PIN;38.77;Online;ATM Withdrawal;France;658 Cedar St;987 Oak St;Male;48;XYZ Bank;No
+377;29/09/2023;07:36;Visa;PIN;113.91;Online;Retail;Italy;932 Main St;672 Oak St;Female;23;XYZ Bank;No
+378;12/10/2023;14:33;Visa;PIN;73.24;Online;Electronics;Canada;997 Cedar St;277 Pine St;Female;58;DEF Bank;No
+379;12/10/2023;08:45;MasterCard;PIN;56.78;POS;Clothing;France;943 Oak St;189 Maple St;Female;66;ABC Bank;No
+380;17/10/2023;13:19;MasterCard;PIN;264.86;Online;Retail;UK;789 Maple St;395 Pine St;Female;40;XYZ Bank;No
+381;26/09/2023;20:41;Visa;Tap;59.56;POS;Food;UK;776 Pine St;523 Redwood St;Male;30;DEF Bank;No
+382;12/10/2023;10:20;MasterCard;PIN;405.18;Online;Electronics;France;719 Birch St;880 Pine St;Male;27;XYZ Bank;No
+383;19/09/2023;02:18;MasterCard;PIN;203.02;Online;Grocery;Canada;146 Redwood St;473 Maple St;Male;49;DEF Bank;No
+384;28/09/2023;13:33;MasterCard;PIN;352.59;ATM;Clothing;Germany;724 Maple St;182 Redwood St;Female;37;DEF Bank;No
+385;04/10/2023;17:59;Visa;PIN;197.16;ATM;Grocery;UK;815 Redwood St;996 Elm St;Male;18;XYZ Bank;No
+386;10/10/2023;18:41;MasterCard;PIN;224.65;POS;ATM Withdrawal;USA;423 Oak St;5 Pine St;Female;46;DEF Bank;No
+387;18/09/2023;04:16;MasterCard;Tap;497.55;POS;Grocery;UK;993 Cedar St;134 Birch St;Female;64;DEF Bank;No
+388;17/10/2023;07:39;Visa;Tap;285.88;Online;Retail;Italy;392 Maple St;945 Oak St;Male;30;DEF Bank;No
+389;20/10/2023;16:15;MasterCard;PIN;395.04;POS;Electronics;Germany;980 Oak St;48 Main St;Male;37;ABC Bank;No
+390;12/10/2023;12:28;Visa;Tap;354.76;Online;Electronics;France;421 Cedar St;181 Maple St;Male;63;ABC Bank;No
+391;09/10/2023;14:54;Visa;PIN;394.15;POS;Electronics;France;680 Oak St;316 Cedar St;Female;28;XYZ Bank;No
+392;11/10/2023;18:55;MasterCard;Tap;41.4;Online;ATM Withdrawal;Canada;330 Pine St;504 Maple St;Male;33;ABC Bank;No
+393;17/10/2023;19:02;Visa;Tap;359.11;Online;Retail;USA;526 Redwood St;642 Elm St;Male;34;XYZ Bank;No
+394;24/09/2023;21:01;MasterCard;PIN;493.85;Online;ATM Withdrawal;UK;589 Birch St;759 Redwood St;Male;38;DEF Bank;No
+395;10/10/2023;15:01;Visa;PIN;272.35;ATM;Clothing;Italy;862 Redwood St;639 Birch St;Male;30;ABC Bank;No
+396;01/10/2023;20:26;Visa;Tap;270.82;POS;Grocery;Canada;146 Main St;542 Main St;Female;43;DEF Bank;No
+397;18/10/2023;03:23;MasterCard;PIN;173.19;ATM;Retail;Canada;965 Redwood St;150 Redwood St;Female;54;XYZ Bank;No
+398;21/09/2023;01:06;MasterCard;PIN;424.18;Online;Food;Spain;328 Birch St;387 Cedar St;Male;36;XYZ Bank;No
+399;26/09/2023;04:23;Visa;Tap;61.07;POS;Electronics;Canada;225 Main St;893 Elm St;Female;32;ABC Bank;No
+400;10/10/2023;13:31;MasterCard;PIN;242.16;POS;Clothing;UK;219 Maple St;641 Oak St;Male;53;ABC Bank;No
+401;28/09/2023;02:50;Visa;Tap;165.48;Online;ATM Withdrawal;Spain;592 Birch St;575 Cedar St;Male;60;XYZ Bank;No
+402;28/09/2023;21:08;Visa;Tap;320.35;Online;Clothing;France;15 Redwood St;822 Main St;Female;69;DEF Bank;No
+403;22/09/2023;14:17;MasterCard;PIN;143.53;POS;ATM Withdrawal;UK;554 Cedar St;661 Oak St;Female;28;ABC Bank;No
+404;28/09/2023;05:40;MasterCard;Tap;281.94;Online;Electronics;USA;417 Oak St;83 Oak St;Female;34;XYZ Bank;No
+405;10/10/2023;14:16;Visa;Tap;189.0;ATM;ATM Withdrawal;France;795 Cedar St;593 Cedar St;Female;31;ABC Bank;No
+406;04/10/2023;17:19;Visa;PIN;115.91;POS;ATM Withdrawal;France;931 Elm St;73 Birch St;Male;55;DEF Bank;No
+407;02/10/2023;17:43;Visa;Tap;255.92;ATM;ATM Withdrawal;Italy;384 Main St;295 Elm St;Female;50;ABC Bank;No
+408;05/10/2023;08:59;Visa;PIN;262.55;Online;Clothing;Italy;163 Birch St;636 Cedar St;Female;69;ABC Bank;No
+409;04/10/2023;05:28;Visa;PIN;311.54;Online;Retail;UK;649 Elm St;227 Main St;Female;50;XYZ Bank;No
+410;19/09/2023;05:59;Visa;Tap;289.78;POS;Retail;Canada;360 Maple St;898 Redwood St;Female;20;ABC Bank;No
+411;30/09/2023;16:37;MasterCard;Tap;96.3;Online;ATM Withdrawal;Germany;396 Elm St;515 Oak St;Male;23;ABC Bank;No
+412;07/10/2023;21:54;Visa;PIN;390.7;Online;Retail;Spain;139 Elm St;841 Elm St;Female;56;XYZ Bank;No
+413;06/10/2023;12:38;Visa;PIN;303.99;Online;Retail;USA;531 Maple St;210 Elm St;Female;42;ABC Bank;No
+414;03/10/2023;08:25;MasterCard;PIN;435.37;Online;Retail;France;531 Birch St;979 Cedar St;Female;45;ABC Bank;No
+415;05/10/2023;16:28;Visa;PIN;40.38;POS;Grocery;USA;571 Maple St;666 Maple St;Female;51;DEF Bank;No
+416;23/09/2023;19:30;Visa;Tap;34.97;ATM;Food;Italy;462 Pine St;668 Main St;Female;52;DEF Bank;No
+417;23/09/2023;09:03;MasterCard;Tap;128.07;ATM;Grocery;Canada;244 Main St;848 Maple St;Female;61;DEF Bank;No
+418;27/09/2023;18:05;Visa;Tap;344.61;Online;Retail;UK;769 Pine St;847 Maple St;Male;47;XYZ Bank;No
+419;10/10/2023;11:00;MasterCard;Tap;332.4;Online;Food;UK;506 Maple St;945 Cedar St;Male;46;DEF Bank;No
+420;03/10/2023;00:08;MasterCard;Tap;495.67;POS;Retail;Germany;968 Birch St;953 Birch St;Female;53;XYZ Bank;No
+421;30/09/2023;13:36;MasterCard;Tap;177.73;POS;Food;Spain;147 Oak St;645 Cedar St;Male;44;XYZ Bank;No
+422;29/09/2023;09:48;MasterCard;PIN;129.77;POS;Retail;USA;555 Birch St;187 Oak St;Male;28;DEF Bank;No
+423;25/09/2023;14:03;Visa;Tap;323.15;POS;Grocery;USA;956 Cedar St;740 Cedar St;Female;37;DEF Bank;No
+424;24/09/2023;06:17;Visa;Tap;374.81;Online;Retail;USA;171 Redwood St;874 Main St;Female;35;ABC Bank;No
+425;20/09/2023;22:57;MasterCard;Tap;376.41;POS;ATM Withdrawal;Italy;224 Oak St;732 Elm St;Male;55;XYZ Bank;No
+426;09/10/2023;05:27;MasterCard;Tap;327.38;POS;Retail;UK;80 Elm St;715 Elm St;Female;58;ABC Bank;No
+427;23/09/2023;17:00;Visa;Tap;417.21;ATM;Electronics;Italy;404 Redwood St;404 Maple St;Female;19;ABC Bank;No
+428;18/09/2023;12:47;Visa;PIN;406.37;ATM;Grocery;UK;703 Redwood St;425 Maple St;Male;44;DEF Bank;No
+429;26/09/2023;18:54;MasterCard;Tap;225.65;Online;Clothing;Italy;181 Maple St;920 Maple St;Female;37;XYZ Bank;No
+430;09/10/2023;00:03;Visa;PIN;32.68;Online;Electronics;Italy;996 Redwood St;525 Birch St;Male;64;DEF Bank;No
+431;10/10/2023;19:18;Visa;Tap;397.5;Online;Retail;France;212 Cedar St;661 Main St;Female;63;ABC Bank;Yes
+432;25/09/2023;18:28;MasterCard;Tap;281.77;ATM;Retail;USA;26 Birch St;286 Oak St;Female;42;XYZ Bank;No
+433;30/09/2023;14:24;MasterCard;Tap;344.8;POS;Food;Canada;775 Oak St;566 Redwood St;Female;46;DEF Bank;No
+434;14/10/2023;17:36;Visa;Tap;57.88;POS;Food;Italy;724 Redwood St;599 Cedar St;Female;45;ABC Bank;No
+435;18/10/2023;11:27;MasterCard;PIN;54.46;Online;ATM Withdrawal;Canada;604 Birch St;910 Elm St;Female;62;ABC Bank;No
+436;12/10/2023;12:13;Visa;Tap;292.93;Online;Grocery;Italy;676 Birch St;513 Oak St;Male;32;DEF Bank;No
+437;28/09/2023;07:28;Visa;Tap;371.26;Online;Food;Italy;294 Cedar St;61 Oak St;Female;47;DEF Bank;No
+438;14/10/2023;18:14;Visa;PIN;322.51;ATM;Electronics;Spain;71 Birch St;199 Oak St;Male;53;ABC Bank;No
+439;08/10/2023;12:45;Visa;PIN;164.18;Online;Grocery;France;505 Cedar St;603 Birch St;Male;39;XYZ Bank;No
+440;10/10/2023;14:52;MasterCard;Tap;487.62;Online;Food;Germany;947 Maple St;618 Birch St;Female;53;ABC Bank;No
+441;18/09/2023;10:36;Visa;Tap;37.17;ATM;ATM Withdrawal;Germany;712 Pine St;166 Main St;Male;56;XYZ Bank;No
+442;28/09/2023;22:12;Visa;PIN;92.12;POS;Food;USA;486 Pine St;875 Redwood St;Female;33;ABC Bank;No
+443;01/10/2023;16:21;Visa;PIN;62.58;ATM;Food;UK;950 Birch St;838 Redwood St;Female;59;ABC Bank;No
+444;18/10/2023;02:11;MasterCard;Tap;209.81;ATM;ATM Withdrawal;Italy;844 Birch St;401 Birch St;Male;24;ABC Bank;No
+445;28/09/2023;13:48;MasterCard;Tap;366.19;ATM;Electronics;USA;968 Birch St;462 Maple St;Female;52;ABC Bank;No
+446;23/09/2023;13:12;Visa;PIN;431.16;Online;Retail;Spain;57 Oak St;539 Main St;Male;39;ABC Bank;No
+447;28/09/2023;10:34;MasterCard;Tap;102.79;Online;Clothing;UK;816 Redwood St;226 Cedar St;Female;21;ABC Bank;No
+448;06/10/2023;22:03;Visa;PIN;157.35;Online;Retail;Spain;812 Elm St;165 Oak St;Male;42;XYZ Bank;No
+449;13/10/2023;15:16;Visa;Tap;69.49;POS;ATM Withdrawal;USA;289 Oak St;564 Maple St;Female;52;ABC Bank;No
+450;13/10/2023;11:23;MasterCard;PIN;442.09;Online;Electronics;Canada;500 Elm St;573 Cedar St;Female;68;ABC Bank;No
+451;04/10/2023;04:01;Visa;Tap;421.08;POS;Grocery;USA;969 Oak St;995 Cedar St;Female;31;XYZ Bank;No
+452;18/09/2023;00:43;Visa;PIN;375.75;Online;Grocery;France;599 Maple St;365 Redwood St;Female;69;XYZ Bank;No
+453;28/09/2023;12:15;Visa;Tap;205.78;ATM;Food;Germany;788 Main St;228 Redwood St;Female;51;DEF Bank;No
+454;07/10/2023;06:18;Visa;PIN;30.74;Online;Clothing;USA;434 Maple St;419 Oak St;Male;24;ABC Bank;No
+455;21/10/2023;07:54;MasterCard;PIN;116.37;POS;Clothing;Italy;119 Main St;458 Pine St;Male;63;ABC Bank;No
+456;26/09/2023;21:03;MasterCard;PIN;114.08;Online;Retail;Germany;15 Oak St;590 Elm St;Female;52;ABC Bank;No
+457;30/09/2023;08:01;Visa;PIN;165.83;ATM;ATM Withdrawal;Spain;528 Elm St;415 Elm St;Male;54;ABC Bank;No
+458;23/09/2023;02:14;MasterCard;PIN;112.61;Online;ATM Withdrawal;France;79 Pine St;753 Cedar St;Female;57;ABC Bank;No
+459;25/09/2023;10:22;MasterCard;Tap;202.32;POS;Retail;Canada;43 Cedar St;122 Oak St;Female;49;DEF Bank;No
+460;17/10/2023;04:35;MasterCard;PIN;325.23;Online;Clothing;Spain;448 Elm St;736 Elm St;Male;52;ABC Bank;No
+461;13/10/2023;08:59;Visa;PIN;143.62;ATM;Food;UK;945 Maple St;692 Redwood St;Male;44;XYZ Bank;No
+462;28/09/2023;19:34;MasterCard;Tap;30.23;ATM;Food;UK;250 Maple St;925 Redwood St;Female;69;XYZ Bank;No
+463;21/09/2023;22:39;Visa;PIN;174.07;ATM;Electronics;Spain;146 Birch St;624 Birch St;Male;44;XYZ Bank;No
+464;22/10/2023;06:46;MasterCard;PIN;319.51;POS;Grocery;UK;94 Cedar St;451 Redwood St;Male;38;ABC Bank;No
+465;11/10/2023;20:33;MasterCard;Tap;120.43;Online;Retail;Italy;807 Redwood St;152 Oak St;Female;28;ABC Bank;No
+466;24/09/2023;03:38;MasterCard;PIN;213.05;Online;Retail;Germany;776 Pine St;621 Birch St;Female;49;ABC Bank;Yes
+467;23/09/2023;19:01;MasterCard;Tap;166.5;Online;ATM Withdrawal;France;415 Birch St;755 Birch St;Male;63;DEF Bank;No
+468;28/09/2023;08:40;MasterCard;PIN;157.98;POS;Retail;Canada;61 Main St;510 Pine St;Female;31;XYZ Bank;No
+469;19/10/2023;09:53;Visa;PIN;279.51;POS;ATM Withdrawal;USA;90 Redwood St;824 Maple St;Male;41;XYZ Bank;No
+470;24/09/2023;04:52;Visa;PIN;467.21;ATM;Electronics;Italy;613 Elm St;659 Pine St;Female;59;ABC Bank;No
+471;19/09/2023;12:53;MasterCard;Tap;441.91;ATM;Food;USA;456 Pine St;761 Birch St;Male;69;DEF Bank;No
+472;24/09/2023;19:51;MasterCard;PIN;288.46;Online;Electronics;France;266 Oak St;823 Maple St;Male;25;XYZ Bank;No
+473;15/10/2023;10:05;Visa;PIN;327.43;POS;Clothing;Canada;799 Redwood St;389 Main St;Female;60;DEF Bank;No
+474;29/09/2023;01:13;Visa;Tap;187.63;Online;Clothing;Germany;46 Elm St;283 Cedar St;Male;45;ABC Bank;No
+475;17/09/2023;03:09;MasterCard;PIN;35.99;POS;Electronics;USA;604 Main St;360 Main St;Male;70;ABC Bank;Yes
+476;22/10/2023;04:17;Visa;PIN;477.14;ATM;Electronics;Italy;935 Elm St;237 Maple St;Male;34;ABC Bank;No
+477;15/10/2023;10:11;Visa;Tap;489.29;POS;Clothing;Italy;352 Elm St;94 Elm St;Male;64;ABC Bank;No
+478;27/09/2023;22:45;Visa;PIN;384.06;POS;Clothing;Germany;11 Oak St;118 Cedar St;Female;50;ABC Bank;No
+479;02/10/2023;22:20;MasterCard;Tap;414.75;Online;Electronics;Germany;824 Elm St;371 Oak St;Male;52;DEF Bank;Yes
+480;06/10/2023;17:51;MasterCard;PIN;149.33;ATM;Clothing;Spain;539 Redwood St;86 Pine St;Female;69;ABC Bank;No
+481;28/09/2023;06:26;Visa;Tap;323.75;ATM;Retail;Italy;474 Birch St;850 Maple St;Female;51;ABC Bank;No
+482;21/10/2023;20:21;MasterCard;PIN;432.21;ATM;Electronics;France;952 Birch St;508 Pine St;Male;58;DEF Bank;No
+483;03/10/2023;03:39;Visa;Tap;287.39;POS;Clothing;Italy;822 Elm St;443 Main St;Female;22;XYZ Bank;No
+484;24/09/2023;04:56;MasterCard;Tap;370.6;POS;Food;France;549 Cedar St;899 Oak St;Female;18;ABC Bank;No
+485;08/10/2023;22:23;Visa;PIN;473.36;Online;Grocery;USA;123 Maple St;587 Birch St;Male;53;DEF Bank;No
+486;22/10/2023;15:38;Visa;Tap;168.01;ATM;Clothing;Spain;494 Main St;195 Elm St;Male;20;ABC Bank;No
+487;03/10/2023;11:46;Visa;PIN;424.45;ATM;ATM Withdrawal;Italy;693 Oak St;190 Cedar St;Male;65;ABC Bank;No
+488;22/09/2023;00:37;MasterCard;Tap;198.72;ATM;Electronics;Italy;358 Main St;158 Elm St;Female;69;XYZ Bank;No
+489;21/09/2023;15:16;MasterCard;PIN;409.75;ATM;Electronics;Spain;492 Maple St;999 Oak St;Female;43;DEF Bank;No
+490;16/10/2023;12:42;MasterCard;PIN;484.82;ATM;Clothing;UK;464 Elm St;915 Oak St;Female;53;DEF Bank;No
+491;18/10/2023;03:07;Visa;Tap;346.24;Online;Food;Germany;979 Oak St;369 Birch St;Male;38;ABC Bank;No
+492;29/09/2023;21:04;Visa;PIN;446.02;ATM;Food;UK;9 Oak St;513 Redwood St;Male;53;XYZ Bank;No
+493;22/10/2023;07:49;MasterCard;Tap;403.52;ATM;Retail;France;458 Main St;170 Birch St;Male;46;DEF Bank;No
+494;11/10/2023;21:55;Visa;PIN;74.45;Online;Retail;France;522 Maple St;71 Maple St;Female;34;ABC Bank;No
+495;24/09/2023;15:52;Visa;Tap;193.3;POS;Grocery;France;892 Birch St;227 Main St;Female;47;ABC Bank;No
+496;20/09/2023;09:05;Visa;Tap;328.32;POS;ATM Withdrawal;UK;426 Pine St;788 Oak St;Male;56;DEF Bank;No
+497;12/10/2023;07:22;Visa;PIN;20.49;POS;Clothing;Canada;57 Oak St;57 Birch St;Male;47;XYZ Bank;No
+498;19/10/2023;17:11;Visa;Tap;139.75;Online;Grocery;UK;660 Birch St;241 Elm St;Female;45;DEF Bank;No
+499;09/10/2023;18:50;Visa;Tap;380.9;Online;Food;Germany;168 Elm St;167 Elm St;Female;65;ABC Bank;No
+500;17/10/2023;00:24;MasterCard;PIN;343.31;POS;ATM Withdrawal;Germany;228 Pine St;454 Pine St;Male;42;ABC Bank;No
+501;26/09/2023;09:19;Visa;Tap;216.57;POS;Clothing;UK;185 Oak St;165 Maple St;Male;42;XYZ Bank;No
+502;03/10/2023;16:55;MasterCard;PIN;191.6;ATM;Retail;France;427 Pine St;765 Birch St;Male;61;XYZ Bank;No
+503;15/10/2023;18:19;Visa;Tap;465.49;ATM;Retail;Germany;95 Cedar St;962 Redwood St;Male;51;DEF Bank;No
+504;20/10/2023;20:42;MasterCard;PIN;213.56;ATM;Clothing;Canada;265 Oak St;922 Pine St;Female;18;DEF Bank;No
+505;06/10/2023;15:23;Visa;Tap;467.74;POS;ATM Withdrawal;UK;3 Maple St;547 Maple St;Male;40;XYZ Bank;No
+506;18/10/2023;07:08;Visa;PIN;352.48;ATM;Electronics;USA;151 Oak St;720 Main St;Male;50;DEF Bank;No
+507;18/09/2023;07:22;Visa;PIN;38.24;Online;Electronics;USA;356 Elm St;54 Elm St;Female;52;DEF Bank;No
+508;19/10/2023;15:42;MasterCard;Tap;49.31;ATM;Clothing;USA;855 Cedar St;242 Elm St;Female;22;XYZ Bank;Yes
+509;25/09/2023;08:56;Visa;PIN;214.03;POS;Grocery;Spain;275 Birch St;722 Birch St;Male;65;XYZ Bank;No
+510;24/09/2023;00:43;MasterCard;Tap;328.21;POS;Grocery;Canada;253 Pine St;639 Elm St;Male;51;ABC Bank;No
+511;12/10/2023;04:39;Visa;PIN;377.42;Online;ATM Withdrawal;UK;999 Maple St;735 Cedar St;Male;18;DEF Bank;No
+512;17/09/2023;10:22;MasterCard;PIN;137.87;ATM;Food;USA;530 Main St;867 Maple St;Male;49;XYZ Bank;No
+513;25/09/2023;21:42;Visa;Tap;192.52;POS;Clothing;Spain;955 Maple St;337 Main St;Male;37;DEF Bank;No
+514;29/09/2023;16:35;MasterCard;PIN;154.23;ATM;Retail;Canada;710 Maple St;220 Birch St;Male;42;ABC Bank;No
+515;18/09/2023;11:53;Visa;Tap;269.45;ATM;Grocery;UK;340 Birch St;329 Elm St;Female;35;ABC Bank;No
+516;01/10/2023;20:00;Visa;Tap;449.72;ATM;Food;USA;440 Cedar St;75 Pine St;Male;69;DEF Bank;No
+517;04/10/2023;19:48;Visa;Tap;440.72;ATM;Grocery;UK;737 Redwood St;765 Oak St;Female;18;ABC Bank;No
+518;22/10/2023;13:26;MasterCard;PIN;165.71;ATM;Retail;Spain;340 Cedar St;45 Main St;Female;65;DEF Bank;No
+519;20/10/2023;22:39;MasterCard;PIN;201.2;ATM;Grocery;Spain;470 Maple St;668 Pine St;Female;67;ABC Bank;No
+520;22/10/2023;03:28;MasterCard;Tap;166.17;Online;ATM Withdrawal;Canada;522 Redwood St;160 Elm St;Female;47;ABC Bank;No
+521;21/10/2023;14:02;MasterCard;PIN;383.13;ATM;Food;UK;30 Main St;788 Oak St;Female;54;DEF Bank;No
+522;22/09/2023;08:27;Visa;Tap;48.69;POS;Electronics;Italy;567 Pine St;238 Birch St;Male;22;XYZ Bank;No
+523;21/09/2023;06:01;Visa;PIN;135.29;POS;Grocery;Germany;814 Redwood St;702 Elm St;Female;32;ABC Bank;No
+524;25/09/2023;02:11;Visa;Tap;327.44;ATM;Clothing;USA;725 Main St;44 Cedar St;Female;67;XYZ Bank;No
+525;27/09/2023;20:34;Visa;Tap;110.11;POS;Grocery;Germany;513 Pine St;480 Maple St;Male;28;DEF Bank;No
+526;21/10/2023;00:42;Visa;Tap;215.18;ATM;Electronics;Spain;285 Birch St;276 Elm St;Female;32;XYZ Bank;No
+527;18/09/2023;06:17;MasterCard;Tap;192.17;ATM;Food;USA;972 Redwood St;826 Oak St;Male;55;DEF Bank;No
+528;03/10/2023;17:17;MasterCard;Tap;113.24;ATM;Food;Spain;811 Cedar St;267 Oak St;Female;46;XYZ Bank;No
+529;08/10/2023;08:14;Visa;Tap;163.11;Online;Electronics;Spain;563 Pine St;335 Maple St;Female;60;ABC Bank;No
+530;18/09/2023;01:23;Visa;Tap;495.61;ATM;Retail;Canada;448 Maple St;302 Birch St;Female;23;XYZ Bank;No
+531;04/10/2023;23:31;MasterCard;PIN;440.92;ATM;Electronics;USA;276 Birch St;440 Cedar St;Male;49;XYZ Bank;No
+532;16/10/2023;11:53;MasterCard;PIN;117.4;Online;Food;Germany;32 Birch St;219 Oak St;Male;45;DEF Bank;No
+533;18/10/2023;10:02;Visa;PIN;170.54;POS;Food;Spain;853 Main St;34 Oak St;Male;48;DEF Bank;No
+534;21/09/2023;21:46;MasterCard;PIN;379.08;POS;Clothing;Spain;906 Elm St;33 Cedar St;Male;60;XYZ Bank;No
+535;29/09/2023;05:27;MasterCard;PIN;36.12;POS;ATM Withdrawal;Italy;327 Pine St;722 Maple St;Female;60;DEF Bank;No
+536;11/10/2023;02:17;Visa;PIN;305.86;Online;Retail;Italy;239 Pine St;213 Pine St;Male;46;XYZ Bank;No
+537;26/09/2023;15:23;MasterCard;Tap;451.21;ATM;Clothing;Canada;60 Main St;224 Maple St;Male;54;XYZ Bank;No
+538;20/09/2023;22:08;Visa;Tap;95.13;ATM;Grocery;Spain;388 Birch St;553 Cedar St;Male;67;ABC Bank;No
+539;22/10/2023;03:00;Visa;PIN;364.73;POS;Electronics;UK;162 Cedar St;179 Redwood St;Female;29;DEF Bank;No
+540;19/10/2023;16:45;Visa;PIN;90.07;Online;ATM Withdrawal;Canada;542 Birch St;322 Main St;Male;42;ABC Bank;No
+541;08/10/2023;10:23;Visa;PIN;324.29;POS;ATM Withdrawal;France;309 Pine St;385 Oak St;Female;70;XYZ Bank;No
+542;12/10/2023;01:25;MasterCard;Tap;365.88;Online;Food;USA;349 Elm St;847 Cedar St;Female;42;ABC Bank;No
+543;06/10/2023;12:02;MasterCard;Tap;236.27;POS;Electronics;Germany;425 Birch St;60 Redwood St;Male;23;ABC Bank;No
+544;13/10/2023;20:06;Visa;PIN;154.25;POS;ATM Withdrawal;Canada;194 Main St;996 Elm St;Female;43;ABC Bank;No
+545;19/09/2023;09:33;Visa;Tap;51.51;ATM;Retail;Germany;979 Birch St;342 Oak St;Male;19;DEF Bank;No
+546;19/10/2023;03:41;MasterCard;Tap;441.0;Online;Retail;UK;709 Maple St;867 Oak St;Female;52;ABC Bank;No
+547;15/10/2023;09:10;Visa;PIN;443.12;Online;Electronics;UK;11 Maple St;381 Pine St;Male;29;XYZ Bank;No
+548;23/09/2023;07:49;MasterCard;PIN;341.35;ATM;Grocery;Canada;805 Elm St;530 Birch St;Female;28;ABC Bank;No
+549;11/10/2023;12:51;MasterCard;PIN;367.05;Online;ATM Withdrawal;UK;895 Elm St;391 Cedar St;Female;46;ABC Bank;No
+550;01/10/2023;02:44;Visa;Tap;63.33;Online;Retail;France;264 Maple St;47 Main St;Male;56;DEF Bank;No
+551;21/09/2023;09:36;MasterCard;Tap;242.9;Online;ATM Withdrawal;France;680 Cedar St;895 Oak St;Male;58;ABC Bank;No
+552;30/09/2023;10:21;Visa;Tap;494.57;POS;Clothing;Italy;796 Cedar St;491 Redwood St;Male;30;ABC Bank;No
+553;29/09/2023;11:38;MasterCard;Tap;151.91;POS;Retail;Italy;435 Cedar St;581 Cedar St;Female;18;ABC Bank;No
+554;29/09/2023;18:14;Visa;PIN;263.66;Online;Clothing;Canada;755 Cedar St;948 Maple St;Female;48;XYZ Bank;No
+555;29/09/2023;02:41;Visa;PIN;458.78;ATM;Food;Spain;259 Cedar St;859 Elm St;Female;50;DEF Bank;No
+556;14/10/2023;06:47;Visa;Tap;341.4;Online;Food;Canada;963 Main St;517 Oak St;Male;62;ABC Bank;No
+557;06/10/2023;23:48;Visa;PIN;369.58;Online;Food;France;235 Elm St;372 Pine St;Female;29;DEF Bank;No
+558;18/09/2023;04:47;Visa;PIN;426.6;POS;Electronics;Canada;149 Redwood St;919 Cedar St;Female;39;ABC Bank;No
+559;07/10/2023;08:15;MasterCard;PIN;105.34;Online;Food;Spain;892 Redwood St;161 Pine St;Male;51;XYZ Bank;No
+560;13/10/2023;23:29;MasterCard;PIN;20.84;ATM;Clothing;USA;465 Pine St;777 Elm St;Female;49;DEF Bank;No
+561;06/10/2023;00:07;Visa;Tap;447.2;ATM;Electronics;Spain;283 Main St;818 Cedar St;Female;66;ABC Bank;No
+562;15/10/2023;18:53;Visa;PIN;382.7;ATM;Clothing;Spain;128 Main St;10 Cedar St;Female;31;XYZ Bank;No
+563;14/10/2023;17:40;Visa;Tap;33.63;ATM;ATM Withdrawal;Germany;371 Pine St;553 Cedar St;Female;42;XYZ Bank;No
+564;17/09/2023;13:03;MasterCard;PIN;345.43;Online;Grocery;Spain;211 Pine St;926 Elm St;Female;66;XYZ Bank;No
+565;08/10/2023;02:04;Visa;PIN;228.11;ATM;Electronics;Spain;351 Elm St;300 Cedar St;Male;45;XYZ Bank;No
+566;06/10/2023;20:35;Visa;Tap;71.24;Online;Electronics;Italy;17 Cedar St;884 Elm St;Female;51;XYZ Bank;No
+567;12/10/2023;12:41;MasterCard;PIN;184.36;POS;Grocery;France;35 Pine St;382 Maple St;Male;67;ABC Bank;No
+568;09/10/2023;12:54;MasterCard;PIN;62.86;Online;Retail;Spain;926 Pine St;851 Birch St;Female;45;XYZ Bank;Yes
+569;22/10/2023;00:32;Visa;Tap;236.75;Online;Electronics;Germany;79 Birch St;900 Maple St;Male;51;DEF Bank;No
+570;03/10/2023;16:18;Visa;PIN;190.4;Online;ATM Withdrawal;UK;906 Main St;347 Redwood St;Female;58;XYZ Bank;No
+571;13/10/2023;09:53;Visa;Tap;374.59;Online;Clothing;USA;465 Birch St;745 Birch St;Male;51;ABC Bank;No
+572;20/09/2023;00:54;MasterCard;Tap;77.11;POS;Grocery;UK;333 Main St;727 Cedar St;Male;51;DEF Bank;No
+573;07/10/2023;03:56;MasterCard;PIN;250.29;POS;Electronics;UK;406 Oak St;302 Main St;Female;56;ABC Bank;No
+574;27/09/2023;10:30;MasterCard;Tap;118.2;ATM;Food;Italy;781 Oak St;901 Redwood St;Female;23;XYZ Bank;No
+575;24/09/2023;17:46;MasterCard;PIN;244.57;Online;Electronics;UK;937 Birch St;840 Oak St;Male;59;DEF Bank;No
+576;17/09/2023;16:41;Visa;PIN;69.19;ATM;Retail;Italy;853 Main St;32 Main St;Female;56;DEF Bank;No
+577;11/10/2023;11:58;MasterCard;PIN;319.94;POS;Clothing;UK;767 Birch St;13 Birch St;Male;49;XYZ Bank;No
+578;15/10/2023;01:09;MasterCard;Tap;77.05;POS;Food;Germany;266 Redwood St;859 Elm St;Female;41;ABC Bank;No
+579;09/10/2023;13:18;MasterCard;PIN;499.69;ATM;Clothing;USA;576 Birch St;323 Birch St;Female;30;DEF Bank;No
+580;27/09/2023;12:21;Visa;PIN;255.41;POS;Electronics;France;236 Oak St;914 Oak St;Female;24;DEF Bank;No
+581;22/09/2023;13:11;MasterCard;PIN;200.71;POS;Electronics;Spain;772 Oak St;163 Maple St;Male;50;DEF Bank;No
+582;17/10/2023;11:07;Visa;Tap;427.97;POS;Retail;UK;139 Redwood St;235 Elm St;Male;56;DEF Bank;No
+583;29/09/2023;22:32;Visa;Tap;323.21;POS;Food;USA;551 Main St;956 Cedar St;Male;39;XYZ Bank;No
+584;15/10/2023;05:25;Visa;Tap;341.52;POS;Grocery;Canada;476 Cedar St;861 Main St;Female;64;ABC Bank;Yes
+585;28/09/2023;00:41;MasterCard;Tap;333.03;ATM;Food;USA;240 Pine St;651 Pine St;Female;47;ABC Bank;No
+586;05/10/2023;14:19;MasterCard;Tap;341.36;Online;Retail;Italy;187 Pine St;645 Elm St;Male;29;ABC Bank;No
+587;17/09/2023;23:29;MasterCard;Tap;480.81;ATM;ATM Withdrawal;Canada;533 Main St;786 Maple St;Male;54;XYZ Bank;No
+588;21/09/2023;08:30;MasterCard;Tap;490.33;ATM;ATM Withdrawal;France;517 Pine St;821 Oak St;Male;23;XYZ Bank;No
+589;16/10/2023;22:52;Visa;Tap;421.56;ATM;Retail;Spain;282 Main St;459 Birch St;Female;65;DEF Bank;No
+590;10/10/2023;21:38;Visa;PIN;369.11;ATM;Electronics;Spain;24 Elm St;786 Maple St;Female;45;ABC Bank;No
+591;21/10/2023;04:35;MasterCard;Tap;388.24;POS;Electronics;USA;868 Maple St;323 Maple St;Female;25;ABC Bank;No
+592;21/10/2023;05:15;Visa;Tap;218.26;POS;Retail;Canada;222 Maple St;672 Birch St;Male;35;DEF Bank;No
+593;17/10/2023;06:43;Visa;Tap;82.83;Online;Clothing;Canada;149 Pine St;38 Oak St;Female;57;ABC Bank;No
+594;22/09/2023;04:37;Visa;Tap;290.77;ATM;Retail;USA;674 Cedar St;261 Pine St;Female;53;XYZ Bank;No
+595;10/10/2023;07:21;Visa;PIN;122.99;ATM;Electronics;Canada;270 Birch St;229 Cedar St;Female;66;XYZ Bank;No
+596;27/09/2023;16:33;Visa;PIN;358.79;POS;Retail;Germany;106 Elm St;49 Oak St;Male;58;XYZ Bank;No
+597;20/09/2023;14:28;MasterCard;PIN;140.25;ATM;Retail;Canada;441 Cedar St;361 Maple St;Male;37;DEF Bank;No
+598;23/09/2023;07:46;Visa;PIN;257.13;ATM;Food;France;270 Main St;177 Oak St;Female;41;ABC Bank;No
+599;24/09/2023;13:18;Visa;Tap;357.51;Online;Food;USA;265 Birch St;130 Oak St;Male;43;ABC Bank;No
+600;03/10/2023;04:04;Visa;Tap;345.68;ATM;Clothing;UK;418 Main St;132 Pine St;Female;32;DEF Bank;No
+601;11/10/2023;15:55;Visa;PIN;56.78;Online;Grocery;Italy;238 Oak St;338 Cedar St;Female;35;DEF Bank;No
+602;12/10/2023;09:17;MasterCard;PIN;178.5;ATM;Grocery;France;18 Cedar St;459 Main St;Female;65;DEF Bank;No
+603;28/09/2023;15:49;MasterCard;Tap;35.25;POS;Retail;UK;688 Main St;70 Birch St;Female;33;ABC Bank;No
+604;23/09/2023;14:53;Visa;PIN;51.03;ATM;Food;USA;440 Birch St;753 Birch St;Female;26;DEF Bank;No
+605;27/09/2023;23:15;Visa;Tap;458.92;Online;Retail;UK;366 Pine St;602 Main St;Male;61;DEF Bank;No
+606;18/10/2023;06:02;MasterCard;Tap;77.76;ATM;Food;UK;19 Cedar St;564 Maple St;Female;63;ABC Bank;No
+607;06/10/2023;18:56;MasterCard;PIN;436.33;ATM;ATM Withdrawal;USA;632 Maple St;271 Birch St;Female;28;ABC Bank;No
+608;17/09/2023;11:55;MasterCard;PIN;465.92;ATM;Clothing;Germany;628 Main St;6 Pine St;Female;26;XYZ Bank;No
+609;11/10/2023;12:44;Visa;Tap;42.39;Online;Clothing;Spain;456 Redwood St;390 Elm St;Female;65;DEF Bank;No
+610;08/10/2023;14:06;Visa;Tap;476.95;ATM;Retail;Italy;21 Oak St;85 Maple St;Male;33;ABC Bank;No
+611;19/09/2023;01:19;MasterCard;Tap;327.25;ATM;Electronics;France;855 Birch St;563 Birch St;Female;30;DEF Bank;No
+612;24/09/2023;12:47;Visa;Tap;170.36;ATM;ATM Withdrawal;USA;963 Elm St;398 Main St;Male;58;XYZ Bank;No
+613;21/10/2023;06:44;MasterCard;PIN;459.58;Online;Food;Spain;391 Pine St;919 Pine St;Male;54;XYZ Bank;No
+614;05/10/2023;22:37;MasterCard;PIN;320.61;Online;ATM Withdrawal;Spain;412 Cedar St;124 Maple St;Female;38;DEF Bank;No
+615;05/10/2023;12:07;MasterCard;Tap;448.47;ATM;Grocery;USA;638 Redwood St;342 Main St;Male;60;XYZ Bank;No
+616;03/10/2023;15:11;MasterCard;Tap;287.84;Online;Food;Canada;886 Maple St;403 Maple St;Female;20;ABC Bank;No
+617;24/09/2023;17:15;Visa;PIN;216.53;Online;ATM Withdrawal;Canada;843 Elm St;750 Elm St;Female;65;ABC Bank;No
+618;10/10/2023;02:25;Visa;Tap;21.78;Online;ATM Withdrawal;USA;354 Birch St;369 Cedar St;Male;45;ABC Bank;No
+619;14/10/2023;08:37;Visa;Tap;340.15;POS;Electronics;USA;242 Oak St;631 Pine St;Female;63;DEF Bank;No
+620;25/09/2023;01:58;MasterCard;Tap;449.3;ATM;Food;Italy;516 Cedar St;51 Main St;Male;68;DEF Bank;No
+621;20/09/2023;20:34;MasterCard;Tap;20.29;ATM;Clothing;Italy;877 Elm St;324 Elm St;Male;52;DEF Bank;No
+622;22/10/2023;15:13;Visa;PIN;25.39;ATM;Clothing;USA;475 Pine St;603 Birch St;Male;68;DEF Bank;No
+623;08/10/2023;07:38;MasterCard;PIN;212.42;Online;Food;UK;454 Oak St;179 Elm St;Female;58;DEF Bank;No
+624;11/10/2023;18:10;MasterCard;PIN;360.47;Online;Clothing;UK;434 Maple St;69 Pine St;Female;45;XYZ Bank;No
+625;03/10/2023;01:24;Visa;PIN;125.09;ATM;Grocery;Spain;88 Elm St;684 Oak St;Male;29;ABC Bank;No
+626;05/10/2023;19:23;MasterCard;Tap;378.7;Online;Retail;USA;713 Pine St;437 Pine St;Female;59;ABC Bank;No
+627;30/09/2023;05:16;Visa;PIN;133.64;Online;Retail;UK;577 Elm St;933 Cedar St;Female;65;ABC Bank;No
+628;22/10/2023;06:05;Visa;PIN;185.99;POS;Food;USA;659 Birch St;805 Elm St;Female;51;XYZ Bank;No
+629;17/10/2023;03:51;MasterCard;PIN;493.93;POS;Grocery;France;711 Main St;647 Redwood St;Female;25;XYZ Bank;No
+630;05/10/2023;23:07;Visa;PIN;54.09;Online;Clothing;France;941 Main St;234 Birch St;Female;28;DEF Bank;No
+631;04/10/2023;04:10;Visa;PIN;159.46;Online;Clothing;Germany;736 Redwood St;621 Redwood St;Male;61;DEF Bank;No
+632;21/09/2023;09:39;MasterCard;Tap;380.41;POS;Clothing;UK;753 Oak St;392 Birch St;Female;56;XYZ Bank;No
+633;07/10/2023;17:06;Visa;PIN;467.54;ATM;Food;Germany;427 Main St;582 Oak St;Female;38;ABC Bank;No
+634;18/10/2023;22:15;Visa;Tap;93.86;ATM;Food;UK;239 Cedar St;102 Oak St;Male;29;XYZ Bank;No
+635;17/09/2023;03:21;MasterCard;PIN;137.58;Online;ATM Withdrawal;USA;210 Pine St;870 Oak St;Female;26;XYZ Bank;Yes
+636;19/09/2023;20:42;Visa;PIN;199.71;ATM;Food;Spain;920 Cedar St;55 Elm St;Male;51;DEF Bank;No
+637;09/10/2023;16:06;MasterCard;PIN;35.79;POS;Clothing;USA;968 Elm St;528 Cedar St;Female;70;ABC Bank;No
+638;20/09/2023;18:38;Visa;Tap;444.54;Online;Food;Italy;831 Elm St;495 Redwood St;Female;56;DEF Bank;No
+639;22/10/2023;23:51;MasterCard;Tap;316.91;ATM;Retail;USA;603 Birch St;457 Main St;Male;21;ABC Bank;No
+640;19/10/2023;04:45;Visa;PIN;107.06;POS;Retail;Italy;518 Redwood St;292 Maple St;Male;35;DEF Bank;No
+641;20/09/2023;01:08;MasterCard;PIN;413.72;Online;ATM Withdrawal;Germany;47 Main St;984 Pine St;Male;54;DEF Bank;No
+642;18/10/2023;03:16;Visa;PIN;238.12;Online;Electronics;Germany;653 Oak St;710 Elm St;Female;63;DEF Bank;No
+643;04/10/2023;08:43;Visa;Tap;63.97;Online;ATM Withdrawal;UK;882 Pine St;265 Maple St;Male;30;DEF Bank;No
+644;20/10/2023;19:29;MasterCard;Tap;207.74;POS;Electronics;USA;788 Cedar St;859 Birch St;Female;34;DEF Bank;No
+645;29/09/2023;08:50;MasterCard;PIN;232.1;Online;Clothing;Germany;960 Oak St;416 Elm St;Male;38;DEF Bank;No
+646;19/10/2023;21:38;MasterCard;Tap;404.04;POS;Retail;Italy;770 Main St;780 Oak St;Female;66;ABC Bank;No
+647;30/09/2023;15:31;Visa;Tap;153.33;Online;Electronics;Canada;705 Cedar St;716 Oak St;Female;64;DEF Bank;No
+648;19/09/2023;23:18;MasterCard;PIN;424.94;POS;Retail;Canada;73 Cedar St;580 Cedar St;Female;29;ABC Bank;No
+649;18/09/2023;07:28;Visa;Tap;417.54;Online;Grocery;Italy;306 Redwood St;96 Maple St;Male;42;XYZ Bank;No
+650;16/10/2023;20:00;MasterCard;Tap;20.73;Online;ATM Withdrawal;Italy;666 Redwood St;504 Oak St;Male;66;XYZ Bank;No
+651;30/09/2023;11:23;MasterCard;Tap;330.79;POS;ATM Withdrawal;Canada;208 Birch St;351 Main St;Male;68;DEF Bank;No
+652;10/10/2023;02:10;MasterCard;Tap;387.3;ATM;Food;France;735 Main St;360 Redwood St;Male;68;XYZ Bank;No
+653;19/10/2023;07:06;Visa;Tap;282.38;Online;Retail;UK;752 Main St;434 Main St;Female;64;ABC Bank;No
+654;19/10/2023;16:58;MasterCard;Tap;390.77;POS;Food;Canada;133 Elm St;397 Elm St;Female;48;ABC Bank;No
+655;11/10/2023;04:01;Visa;PIN;250.32;Online;Clothing;Canada;332 Main St;838 Elm St;Male;47;ABC Bank;No
+656;17/10/2023;20:01;MasterCard;Tap;177.12;POS;ATM Withdrawal;Italy;902 Birch St;31 Elm St;Female;22;XYZ Bank;No
+657;12/10/2023;18:30;Visa;Tap;236.39;POS;Retail;Canada;784 Redwood St;524 Redwood St;Female;39;DEF Bank;No
+658;30/09/2023;14:35;Visa;PIN;325.64;Online;Retail;Spain;414 Redwood St;173 Cedar St;Male;57;ABC Bank;No
+659;21/09/2023;11:21;MasterCard;PIN;317.26;POS;Grocery;Canada;518 Pine St;689 Maple St;Female;60;DEF Bank;No
+660;05/10/2023;13:34;Visa;PIN;245.31;Online;Food;Spain;265 Maple St;933 Pine St;Female;57;ABC Bank;No
+661;25/09/2023;15:18;Visa;PIN;269.75;Online;ATM Withdrawal;Germany;828 Oak St;933 Oak St;Female;46;DEF Bank;No
+662;16/10/2023;21:19;MasterCard;PIN;36.32;Online;Clothing;USA;323 Elm St;361 Oak St;Male;39;ABC Bank;No
+663;13/10/2023;17:20;Visa;Tap;354.08;POS;Retail;France;488 Main St;102 Oak St;Female;24;XYZ Bank;No
+664;25/09/2023;07:46;MasterCard;Tap;237.51;ATM;Electronics;Italy;592 Elm St;88 Maple St;Female;21;DEF Bank;No
+665;13/10/2023;14:19;MasterCard;PIN;88.42;POS;Electronics;UK;239 Maple St;687 Elm St;Female;43;XYZ Bank;No
+666;21/10/2023;03:55;MasterCard;PIN;194.04;ATM;Clothing;Spain;633 Redwood St;604 Oak St;Female;68;ABC Bank;No
+667;22/10/2023;00:29;MasterCard;Tap;357.18;ATM;Electronics;France;210 Main St;211 Elm St;Female;52;XYZ Bank;No
+668;13/10/2023;03:19;Visa;PIN;359.3;POS;ATM Withdrawal;Canada;127 Pine St;615 Birch St;Male;53;ABC Bank;No
+669;24/09/2023;01:53;Visa;Tap;116.52;POS;Electronics;UK;291 Pine St;994 Maple St;Female;36;ABC Bank;No
+670;27/09/2023;08:07;Visa;Tap;131.54;ATM;Clothing;Canada;804 Main St;108 Maple St;Female;52;ABC Bank;No
+671;20/09/2023;10:07;Visa;Tap;184.22;Online;Clothing;Germany;706 Maple St;64 Main St;Female;57;ABC Bank;No
+672;22/10/2023;20:38;Visa;PIN;442.22;Online;Clothing;UK;121 Elm St;103 Main St;Male;40;DEF Bank;No
+673;04/10/2023;22:51;MasterCard;PIN;266.21;Online;Clothing;Italy;767 Birch St;346 Oak St;Female;52;XYZ Bank;Yes
+674;20/09/2023;23:04;MasterCard;PIN;293.77;Online;Grocery;Italy;925 Birch St;675 Main St;Female;33;XYZ Bank;No
+675;21/09/2023;23:52;Visa;Tap;119.28;Online;Clothing;Italy;778 Cedar St;720 Redwood St;Female;67;DEF Bank;No
+676;20/09/2023;20:48;MasterCard;Tap;175.32;ATM;Electronics;France;867 Oak St;479 Elm St;Male;40;ABC Bank;No
+677;13/10/2023;11:24;MasterCard;PIN;486.51;Online;Food;Spain;58 Oak St;737 Pine St;Female;56;ABC Bank;No
+678;09/10/2023;16:43;Visa;PIN;358.57;POS;Grocery;Canada;576 Main St;19 Cedar St;Female;45;ABC Bank;No
+679;03/10/2023;04:07;Visa;PIN;55.81;Online;Grocery;USA;549 Redwood St;811 Main St;Male;27;DEF Bank;No
+680;18/10/2023;03:04;MasterCard;PIN;296.16;Online;Retail;USA;608 Redwood St;740 Cedar St;Male;31;DEF Bank;No
+681;18/10/2023;00:47;Visa;Tap;424.15;POS;Retail;Italy;326 Cedar St;131 Main St;Female;41;XYZ Bank;Yes
+682;03/10/2023;19:09;MasterCard;PIN;329.11;ATM;Retail;France;358 Pine St;389 Redwood St;Female;50;DEF Bank;No
+683;12/10/2023;02:31;Visa;Tap;351.66;Online;Clothing;France;209 Cedar St;588 Cedar St;Male;70;ABC Bank;No
+684;13/10/2023;09:20;MasterCard;PIN;355.18;POS;Food;Canada;349 Oak St;8 Main St;Male;31;XYZ Bank;No
+685;21/09/2023;01:47;MasterCard;PIN;107.81;ATM;Electronics;UK;780 Cedar St;431 Pine St;Male;32;DEF Bank;No
+686;16/10/2023;22:34;Visa;Tap;240.69;ATM;Retail;Italy;994 Pine St;752 Main St;Female;41;DEF Bank;No
+687;18/09/2023;11:29;MasterCard;PIN;215.13;Online;Retail;Germany;171 Elm St;166 Cedar St;Female;32;DEF Bank;No
+688;04/10/2023;07:19;MasterCard;Tap;183.47;Online;Grocery;UK;319 Pine St;914 Cedar St;Female;42;DEF Bank;No
+689;03/10/2023;10:03;MasterCard;PIN;88.52;POS;ATM Withdrawal;UK;720 Maple St;566 Oak St;Male;56;DEF Bank;No
+690;11/10/2023;03:07;MasterCard;Tap;146.36;Online;Clothing;Canada;665 Maple St;296 Birch St;Female;53;ABC Bank;No
+691;11/10/2023;07:57;Visa;PIN;72.9;Online;Retail;France;122 Main St;333 Main St;Male;52;DEF Bank;No
+692;04/10/2023;03:31;Visa;Tap;228.91;ATM;Food;Spain;69 Main St;860 Oak St;Female;40;DEF Bank;No
+693;05/10/2023;07:00;MasterCard;Tap;339.38;Online;ATM Withdrawal;Italy;409 Maple St;958 Maple St;Male;54;ABC Bank;No
+694;21/10/2023;15:40;MasterCard;Tap;79.07;ATM;Food;Spain;221 Pine St;52 Oak St;Female;26;DEF Bank;No
+695;20/10/2023;18:30;MasterCard;Tap;142.47;POS;Electronics;Italy;408 Main St;479 Pine St;Male;64;ABC Bank;No
+696;01/10/2023;20:14;MasterCard;PIN;106.47;ATM;Retail;UK;21 Elm St;128 Redwood St;Male;62;DEF Bank;No
+697;24/09/2023;06:49;Visa;PIN;258.27;ATM;Retail;Spain;415 Oak St;477 Birch St;Female;42;XYZ Bank;No
+698;21/10/2023;16:56;Visa;Tap;446.39;ATM;Clothing;France;967 Oak St;140 Redwood St;Female;60;DEF Bank;Yes
+699;24/09/2023;11:19;Visa;Tap;134.26;Online;Electronics;Italy;773 Elm St;975 Elm St;Female;35;ABC Bank;No
+700;17/10/2023;11:01;Visa;Tap;94.62;Online;ATM Withdrawal;Germany;809 Main St;369 Elm St;Female;26;XYZ Bank;No
+701;07/10/2023;22:14;Visa;Tap;323.79;ATM;Electronics;Italy;809 Cedar St;236 Maple St;Male;61;DEF Bank;No
+702;24/09/2023;22:21;MasterCard;PIN;90.11;Online;Retail;Germany;578 Redwood St;995 Redwood St;Male;62;ABC Bank;No
+703;25/09/2023;10:26;MasterCard;PIN;145.78;ATM;Grocery;USA;543 Birch St;8 Cedar St;Female;49;XYZ Bank;Yes
+704;20/09/2023;05:58;MasterCard;PIN;252.28;ATM;Retail;Germany;468 Cedar St;190 Maple St;Female;20;DEF Bank;No
+705;29/09/2023;10:35;MasterCard;PIN;217.32;Online;Clothing;Italy;251 Pine St;857 Elm St;Female;28;ABC Bank;No
+706;08/10/2023;23:42;MasterCard;PIN;410.41;POS;Food;France;195 Redwood St;874 Maple St;Male;64;ABC Bank;No
+707;17/09/2023;23:47;MasterCard;PIN;237.68;POS;Food;Canada;969 Maple St;523 Pine St;Female;62;DEF Bank;No
+708;18/10/2023;22:02;Visa;PIN;375.22;Online;Food;Italy;279 Main St;789 Oak St;Female;21;XYZ Bank;No
+709;13/10/2023;01:21;MasterCard;PIN;368.07;POS;Grocery;Germany;827 Elm St;163 Redwood St;Female;65;DEF Bank;No
+710;20/10/2023;20:15;Visa;Tap;36.1;POS;Clothing;Canada;672 Redwood St;661 Birch St;Female;36;ABC Bank;No
+711;18/09/2023;03:03;MasterCard;PIN;360.24;Online;Grocery;Germany;24 Elm St;504 Redwood St;Female;70;ABC Bank;No
+712;06/10/2023;06:49;Visa;PIN;202.29;POS;Retail;Italy;920 Pine St;560 Birch St;Female;33;ABC Bank;No
+713;24/09/2023;01:26;MasterCard;Tap;369.93;ATM;Food;Italy;986 Oak St;278 Birch St;Male;48;DEF Bank;No
+714;27/09/2023;14:17;Visa;Tap;400.07;ATM;ATM Withdrawal;France;453 Elm St;721 Redwood St;Female;48;ABC Bank;No
+715;20/10/2023;00:32;MasterCard;Tap;31.03;Online;Clothing;Canada;263 Redwood St;559 Main St;Male;61;DEF Bank;No
+716;28/09/2023;15:00;Visa;PIN;156.58;Online;Food;Spain;475 Main St;218 Redwood St;Female;68;DEF Bank;No
+717;22/10/2023;07:48;MasterCard;Tap;466.18;Online;ATM Withdrawal;Germany;371 Pine St;472 Cedar St;Male;63;DEF Bank;No
+718;22/09/2023;09:55;Visa;Tap;199.57;Online;Food;Canada;455 Cedar St;339 Birch St;Female;42;DEF Bank;No
+719;17/09/2023;17:11;Visa;Tap;255.67;Online;Retail;Spain;157 Redwood St;905 Pine St;Male;54;XYZ Bank;No
+720;13/10/2023;01:36;Visa;PIN;241.95;POS;Clothing;Germany;940 Main St;753 Redwood St;Female;66;ABC Bank;No
+721;07/10/2023;10:42;MasterCard;Tap;37.53;Online;Grocery;Spain;359 Birch St;241 Pine St;Male;26;XYZ Bank;No
+722;15/10/2023;19:43;MasterCard;PIN;182.7;POS;Grocery;France;394 Elm St;284 Pine St;Female;26;DEF Bank;No
+723;20/10/2023;15:31;Visa;PIN;257.27;Online;Clothing;France;543 Birch St;324 Maple St;Female;32;ABC Bank;No
+724;02/10/2023;11:26;Visa;Tap;132.63;ATM;Food;Canada;265 Oak St;972 Pine St;Female;30;ABC Bank;No
+725;28/09/2023;04:11;Visa;Tap;477.09;Online;ATM Withdrawal;USA;226 Elm St;811 Birch St;Female;51;DEF Bank;No
+726;30/09/2023;04:13;MasterCard;Tap;397.89;Online;Electronics;UK;675 Pine St;907 Redwood St;Male;46;ABC Bank;No
+727;24/09/2023;00:33;MasterCard;Tap;349.69;Online;Clothing;Canada;993 Maple St;13 Maple St;Female;68;DEF Bank;No
+728;21/10/2023;14:37;MasterCard;PIN;374.3;Online;Retail;Canada;788 Pine St;368 Main St;Female;50;DEF Bank;No
+729;06/10/2023;07:22;MasterCard;PIN;225.28;ATM;Grocery;Canada;256 Elm St;305 Main St;Female;31;ABC Bank;No
+730;23/09/2023;04:42;Visa;PIN;400.99;ATM;ATM Withdrawal;Canada;758 Oak St;191 Elm St;Male;67;DEF Bank;No
+731;29/09/2023;08:27;MasterCard;PIN;89.03;Online;Grocery;Germany;567 Birch St;161 Redwood St;Male;31;XYZ Bank;No
+732;11/10/2023;21:34;Visa;Tap;173.88;Online;Clothing;Spain;463 Oak St;430 Cedar St;Male;56;ABC Bank;No
+733;12/10/2023;09:36;Visa;Tap;434.62;Online;ATM Withdrawal;France;500 Cedar St;38 Cedar St;Female;51;XYZ Bank;No
+734;24/09/2023;20:06;MasterCard;PIN;140.12;POS;Retail;France;97 Elm St;714 Pine St;Male;69;XYZ Bank;No
+735;08/10/2023;15:01;MasterCard;PIN;258.2;POS;Retail;France;16 Redwood St;773 Redwood St;Male;24;DEF Bank;No
+736;18/09/2023;02:12;MasterCard;PIN;405.96;ATM;Clothing;UK;202 Maple St;832 Pine St;Male;54;ABC Bank;No
+737;18/09/2023;09:08;MasterCard;Tap;490.96;Online;ATM Withdrawal;UK;425 Cedar St;478 Cedar St;Male;45;ABC Bank;No
+738;12/10/2023;21:42;Visa;Tap;474.78;POS;ATM Withdrawal;Italy;466 Cedar St;977 Birch St;Female;46;ABC Bank;No
+739;06/10/2023;16:44;MasterCard;PIN;461.44;Online;ATM Withdrawal;USA;959 Maple St;312 Oak St;Female;62;ABC Bank;No
+740;22/09/2023;09:34;Visa;PIN;366.39;POS;Retail;Spain;556 Cedar St;726 Main St;Male;24;XYZ Bank;No
+741;19/10/2023;04:54;MasterCard;PIN;357.92;ATM;Electronics;Spain;324 Pine St;240 Main St;Male;66;XYZ Bank;No
+742;06/10/2023;21:46;Visa;PIN;31.32;ATM;Electronics;Germany;940 Maple St;891 Redwood St;Male;22;DEF Bank;No
+743;19/10/2023;19:36;MasterCard;Tap;482.25;Online;Electronics;Canada;855 Birch St;807 Pine St;Male;24;XYZ Bank;No
+744;28/09/2023;13:28;Visa;Tap;143.7;POS;Food;USA;690 Pine St;448 Birch St;Female;31;XYZ Bank;No
+745;14/10/2023;04:07;Visa;Tap;397.02;ATM;Grocery;Italy;12 Oak St;348 Cedar St;Female;63;XYZ Bank;No
+746;22/10/2023;20:16;MasterCard;Tap;174.85;ATM;Grocery;Italy;195 Pine St;226 Redwood St;Female;62;DEF Bank;No
+747;21/10/2023;05:26;MasterCard;PIN;20.44;Online;Electronics;UK;69 Redwood St;238 Main St;Female;26;DEF Bank;No
+748;12/10/2023;19:04;MasterCard;PIN;131.86;Online;Retail;France;684 Birch St;195 Elm St;Female;70;ABC Bank;No
+749;14/10/2023;18:02;Visa;Tap;193.57;Online;Food;UK;139 Main St;24 Pine St;Female;42;ABC Bank;No
+750;18/10/2023;10:10;Visa;PIN;349.11;Online;Grocery;France;477 Elm St;858 Maple St;Male;26;ABC Bank;No
+751;11/10/2023;00:35;MasterCard;Tap;355.03;ATM;ATM Withdrawal;France;334 Oak St;543 Oak St;Female;26;DEF Bank;No
+752;27/09/2023;12:22;MasterCard;PIN;372.54;Online;Electronics;UK;747 Cedar St;238 Cedar St;Female;67;DEF Bank;No
+753;17/10/2023;17:42;MasterCard;Tap;21.26;POS;Grocery;UK;595 Cedar St;13 Oak St;Male;48;DEF Bank;Yes
+754;19/10/2023;08:04;Visa;Tap;140.62;POS;Food;UK;712 Cedar St;131 Elm St;Female;40;DEF Bank;No
+755;05/10/2023;22:48;Visa;Tap;202.93;Online;ATM Withdrawal;France;860 Birch St;970 Maple St;Female;25;ABC Bank;No
+756;15/10/2023;08:34;Visa;Tap;104.49;Online;Electronics;Germany;347 Cedar St;73 Maple St;Male;24;ABC Bank;No
+757;21/10/2023;14:47;Visa;Tap;165.98;Online;Clothing;Canada;181 Oak St;671 Birch St;Female;48;DEF Bank;No
+758;12/10/2023;07:02;Visa;Tap;185.97;POS;Food;Italy;785 Cedar St;93 Maple St;Male;62;DEF Bank;No
+759;24/09/2023;06:21;Visa;PIN;471.39;Online;Retail;UK;125 Cedar St;811 Pine St;Female;19;ABC Bank;No
+760;04/10/2023;21:23;MasterCard;PIN;477.76;Online;Electronics;Germany;321 Birch St;933 Pine St;Male;45;XYZ Bank;Yes
+761;09/10/2023;11:31;Visa;PIN;463.54;ATM;ATM Withdrawal;UK;279 Elm St;4 Oak St;Male;44;ABC Bank;No
+762;29/09/2023;00:12;Visa;PIN;93.42;POS;Retail;Spain;812 Maple St;714 Oak St;Female;41;ABC Bank;No
+763;21/10/2023;13:45;Visa;PIN;201.0;Online;Grocery;Canada;418 Birch St;192 Elm St;Male;22;ABC Bank;No
+764;11/10/2023;22:48;MasterCard;Tap;122.43;Online;Grocery;Canada;60 Main St;986 Birch St;Male;54;DEF Bank;No
+765;29/09/2023;09:12;Visa;Tap;88.41;Online;Grocery;USA;395 Main St;125 Redwood St;Female;43;ABC Bank;No
+766;19/10/2023;22:59;MasterCard;Tap;164.31;ATM;Electronics;Canada;786 Redwood St;742 Elm St;Female;48;DEF Bank;No
+767;01/10/2023;05:22;MasterCard;Tap;64.99;Online;Food;Italy;504 Main St;450 Elm St;Male;69;DEF Bank;No
+768;26/09/2023;05:25;Visa;Tap;367.37;ATM;Food;France;278 Pine St;109 Pine St;Female;50;DEF Bank;No
+769;16/10/2023;19:39;Visa;Tap;378.1;ATM;Electronics;Italy;419 Pine St;493 Main St;Female;57;DEF Bank;No
+770;27/09/2023;11:51;MasterCard;PIN;402.26;Online;Electronics;Spain;86 Birch St;313 Oak St;Male;20;DEF Bank;No
+771;10/10/2023;10:05;Visa;Tap;32.83;POS;Electronics;Germany;411 Redwood St;455 Birch St;Female;69;DEF Bank;No
+772;07/10/2023;19:52;MasterCard;Tap;280.76;POS;Food;USA;319 Redwood St;92 Redwood St;Male;30;ABC Bank;No
+773;17/10/2023;13:40;Visa;Tap;45.34;ATM;Grocery;USA;382 Birch St;690 Main St;Female;28;XYZ Bank;No
+774;06/10/2023;23:33;MasterCard;Tap;244.3;POS;Clothing;Italy;534 Main St;434 Birch St;Female;53;XYZ Bank;No
+775;19/09/2023;11:43;Visa;Tap;335.66;POS;Retail;France;627 Pine St;365 Elm St;Male;35;ABC Bank;No
+776;01/10/2023;11:02;MasterCard;PIN;352.41;POS;Electronics;France;153 Main St;770 Oak St;Female;42;DEF Bank;No
+777;04/10/2023;02:14;Visa;PIN;147.52;ATM;ATM Withdrawal;Germany;193 Birch St;282 Maple St;Male;22;XYZ Bank;No
+778;18/09/2023;01:32;Visa;Tap;257.37;ATM;Retail;Spain;680 Maple St;135 Elm St;Male;29;DEF Bank;No
+779;24/09/2023;12:02;MasterCard;PIN;261.96;Online;Food;Italy;420 Maple St;901 Oak St;Male;61;ABC Bank;No
+780;20/09/2023;06:20;Visa;Tap;346.31;Online;Food;Canada;269 Cedar St;851 Maple St;Female;31;XYZ Bank;No
+781;22/10/2023;17:56;MasterCard;PIN;372.87;ATM;Electronics;UK;890 Elm St;639 Pine St;Female;53;XYZ Bank;No
+782;26/09/2023;14:14;Visa;PIN;481.38;POS;Food;Germany;659 Oak St;520 Main St;Male;69;DEF Bank;No
+783;12/10/2023;03:38;MasterCard;PIN;255.37;Online;Food;UK;506 Cedar St;264 Elm St;Female;56;ABC Bank;No
+784;18/09/2023;06:29;Visa;Tap;415.53;Online;Food;Germany;526 Main St;57 Elm St;Female;18;ABC Bank;No
+785;21/10/2023;03:57;MasterCard;Tap;454.01;Online;Retail;Italy;962 Birch St;772 Redwood St;Male;32;ABC Bank;No
+786;15/10/2023;00:34;Visa;PIN;375.41;Online;Electronics;Canada;212 Redwood St;283 Pine St;Female;59;XYZ Bank;No
+787;17/09/2023;12:00;Visa;Tap;472.42;ATM;Retail;Italy;702 Elm St;845 Main St;Female;45;XYZ Bank;No
+788;21/09/2023;16:18;Visa;PIN;207.63;ATM;Food;USA;560 Pine St;721 Maple St;Male;69;DEF Bank;No
+789;30/09/2023;04:27;Visa;PIN;215.16;ATM;Food;France;278 Pine St;146 Oak St;Female;27;XYZ Bank;No
+790;12/10/2023;11:38;MasterCard;PIN;227.34;POS;Grocery;Spain;723 Pine St;881 Birch St;Male;64;DEF Bank;No
+791;01/10/2023;10:14;Visa;Tap;482.58;Online;Clothing;Spain;354 Maple St;63 Elm St;Male;41;DEF Bank;No
+792;28/09/2023;10:52;MasterCard;Tap;312.58;ATM;Food;USA;507 Main St;181 Elm St;Female;23;XYZ Bank;No
+793;16/10/2023;16:11;MasterCard;Tap;178.76;POS;Food;UK;526 Cedar St;567 Main St;Male;68;DEF Bank;No
+794;19/09/2023;11:21;MasterCard;PIN;170.84;Online;Retail;UK;416 Oak St;707 Maple St;Male;48;DEF Bank;No
+795;20/10/2023;10:25;MasterCard;Tap;234.59;Online;Retail;Italy;726 Pine St;5 Main St;Male;39;ABC Bank;No
+796;12/10/2023;01:04;MasterCard;PIN;250.73;Online;Retail;Italy;3 Birch St;560 Oak St;Female;28;ABC Bank;No
+797;17/10/2023;07:05;Visa;PIN;472.31;Online;Clothing;Canada;605 Main St;988 Pine St;Female;35;ABC Bank;No
+798;17/10/2023;21:40;Visa;Tap;371.83;ATM;Food;Spain;264 Cedar St;443 Elm St;Male;20;ABC Bank;No
+799;22/09/2023;21:06;MasterCard;Tap;205.15;ATM;Clothing;UK;578 Birch St;385 Cedar St;Male;35;XYZ Bank;No
+800;22/09/2023;13:42;Visa;PIN;240.41;POS;Electronics;UK;978 Maple St;728 Birch St;Male;18;DEF Bank;No
+801;09/10/2023;13:28;Visa;PIN;448.91;ATM;Retail;Canada;136 Birch St;844 Maple St;Male;56;ABC Bank;Yes
+802;28/09/2023;06:15;Visa;PIN;207.24;ATM;ATM Withdrawal;France;623 Birch St;876 Maple St;Female;24;DEF Bank;No
+803;29/09/2023;18:52;MasterCard;Tap;313.45;ATM;Grocery;Spain;493 Birch St;984 Birch St;Male;38;XYZ Bank;Yes
+804;19/09/2023;10:08;MasterCard;PIN;96.75;Online;Clothing;Spain;343 Elm St;883 Redwood St;Male;27;ABC Bank;No
+805;01/10/2023;07:26;Visa;PIN;363.05;POS;ATM Withdrawal;Spain;360 Pine St;560 Maple St;Female;27;DEF Bank;No
+806;19/09/2023;07:04;Visa;Tap;438.25;ATM;Electronics;France;515 Pine St;658 Oak St;Male;19;XYZ Bank;No
+807;30/09/2023;00:33;MasterCard;Tap;283.24;POS;ATM Withdrawal;Italy;540 Cedar St;827 Cedar St;Female;39;ABC Bank;No
+808;18/10/2023;22:30;MasterCard;Tap;452.7;Online;ATM Withdrawal;France;158 Redwood St;156 Elm St;Female;19;DEF Bank;No
+809;30/09/2023;18:49;Visa;Tap;36.39;POS;Electronics;UK;607 Cedar St;145 Pine St;Male;32;DEF Bank;No
+810;19/10/2023;12:08;MasterCard;Tap;328.96;Online;Clothing;France;120 Redwood St;302 Pine St;Male;58;XYZ Bank;No
+811;09/10/2023;07:09;MasterCard;Tap;425.94;POS;Clothing;USA;578 Elm St;911 Main St;Female;18;ABC Bank;No
+812;29/09/2023;02:22;Visa;Tap;54.93;POS;Grocery;Italy;32 Redwood St;284 Elm St;Female;64;XYZ Bank;No
+813;12/10/2023;05:58;MasterCard;Tap;260.23;Online;Food;Italy;521 Maple St;945 Elm St;Male;68;DEF Bank;No
+814;17/09/2023;05:07;MasterCard;PIN;216.46;Online;Retail;Canada;662 Main St;481 Birch St;Female;70;ABC Bank;No
+815;22/10/2023;14:54;MasterCard;PIN;177.46;ATM;Retail;Spain;339 Pine St;755 Maple St;Male;64;ABC Bank;No
+816;18/09/2023;09:16;Visa;Tap;292.72;POS;Grocery;Canada;515 Maple St;951 Elm St;Male;48;XYZ Bank;No
+817;08/10/2023;17:29;MasterCard;PIN;224.61;Online;Grocery;Canada;563 Main St;577 Cedar St;Female;27;XYZ Bank;No
+818;09/10/2023;11:17;MasterCard;Tap;292.68;Online;Food;Italy;563 Birch St;902 Cedar St;Female;51;ABC Bank;No
+819;18/10/2023;08:56;MasterCard;Tap;432.58;POS;ATM Withdrawal;France;49 Redwood St;328 Main St;Female;25;DEF Bank;Yes
+820;11/10/2023;02:02;MasterCard;PIN;244.01;Online;Retail;France;811 Cedar St;453 Pine St;Male;32;XYZ Bank;No
+821;18/09/2023;04:28;Visa;PIN;390.65;Online;Retail;USA;49 Redwood St;609 Redwood St;Male;20;XYZ Bank;No
+822;13/10/2023;02:23;Visa;Tap;492.53;ATM;Clothing;Canada;60 Main St;496 Elm St;Male;68;DEF Bank;No
+823;18/10/2023;23:29;Visa;Tap;56.63;POS;Grocery;France;847 Maple St;167 Elm St;Male;39;DEF Bank;No
+824;10/10/2023;23:50;MasterCard;PIN;143.54;Online;Grocery;USA;881 Main St;857 Elm St;Female;66;DEF Bank;No
+825;30/09/2023;01:58;MasterCard;Tap;246.06;ATM;Grocery;Italy;937 Elm St;214 Cedar St;Female;31;ABC Bank;No
+826;20/10/2023;04:02;Visa;PIN;215.71;Online;Food;Spain;125 Redwood St;25 Birch St;Female;34;ABC Bank;No
+827;29/09/2023;21:32;MasterCard;Tap;183.99;Online;Grocery;Canada;332 Elm St;863 Pine St;Male;22;DEF Bank;No
+828;18/09/2023;18:52;Visa;PIN;205.68;ATM;ATM Withdrawal;Spain;22 Redwood St;132 Maple St;Female;29;XYZ Bank;No
+829;19/09/2023;17:15;Visa;PIN;215.92;POS;Electronics;France;599 Birch St;151 Elm St;Female;53;ABC Bank;No
+830;07/10/2023;06:41;Visa;PIN;329.2;ATM;ATM Withdrawal;Germany;396 Oak St;727 Birch St;Female;51;DEF Bank;No
+831;11/10/2023;04:07;MasterCard;Tap;410.45;Online;Retail;Germany;171 Main St;473 Main St;Female;50;XYZ Bank;No
+832;30/09/2023;06:00;MasterCard;PIN;391.95;ATM;Retail;Italy;984 Redwood St;903 Birch St;Male;45;XYZ Bank;No
+833;03/10/2023;13:33;MasterCard;Tap;72.73;ATM;Grocery;Spain;242 Pine St;1 Oak St;Female;57;ABC Bank;No
+834;25/09/2023;14:37;Visa;Tap;119.51;ATM;Electronics;USA;62 Elm St;480 Maple St;Male;70;XYZ Bank;No
+835;28/09/2023;10:44;Visa;PIN;493.78;POS;Clothing;Germany;181 Cedar St;744 Maple St;Female;55;DEF Bank;No
+836;21/09/2023;05:54;MasterCard;Tap;184.34;ATM;Food;UK;793 Birch St;467 Oak St;Male;18;XYZ Bank;No
+837;18/09/2023;14:24;MasterCard;Tap;479.3;POS;Clothing;France;476 Pine St;782 Main St;Male;52;XYZ Bank;No
+838;28/09/2023;11:32;Visa;PIN;312.3;ATM;Retail;France;699 Birch St;811 Main St;Female;68;ABC Bank;No
+839;10/10/2023;23:07;MasterCard;PIN;379.63;ATM;ATM Withdrawal;Spain;797 Birch St;139 Maple St;Female;69;DEF Bank;No
+840;13/10/2023;06:46;MasterCard;Tap;128.18;Online;Grocery;Spain;696 Redwood St;756 Oak St;Male;33;ABC Bank;No
+841;18/10/2023;18:43;Visa;PIN;361.02;ATM;Clothing;USA;328 Oak St;482 Birch St;Female;31;XYZ Bank;No
+842;22/10/2023;16:45;Visa;PIN;393.17;POS;Electronics;UK;491 Main St;721 Cedar St;Male;26;XYZ Bank;No
+843;19/10/2023;16:17;MasterCard;Tap;448.65;Online;ATM Withdrawal;France;293 Elm St;700 Pine St;Female;50;DEF Bank;No
+844;22/10/2023;07:57;Visa;Tap;376.67;Online;Grocery;Spain;940 Redwood St;61 Pine St;Male;51;ABC Bank;No
+845;27/09/2023;07:47;MasterCard;Tap;144.81;POS;Clothing;Canada;304 Pine St;708 Elm St;Male;21;ABC Bank;No
+846;13/10/2023;10:34;MasterCard;PIN;304.08;ATM;Clothing;Spain;587 Pine St;32 Maple St;Male;37;XYZ Bank;No
+847;19/09/2023;03:23;MasterCard;PIN;79.49;Online;Clothing;Germany;808 Maple St;444 Birch St;Female;48;ABC Bank;No
+848;30/09/2023;04:59;Visa;PIN;351.7;ATM;Clothing;UK;235 Pine St;221 Cedar St;Male;32;XYZ Bank;No
+849;29/09/2023;16:54;Visa;Tap;239.87;Online;Retail;Germany;975 Redwood St;567 Redwood St;Female;26;DEF Bank;No
+850;14/10/2023;01:25;MasterCard;PIN;298.17;Online;Food;Germany;126 Redwood St;55 Elm St;Male;69;XYZ Bank;No
+851;12/10/2023;23:26;Visa;PIN;354.54;Online;Clothing;France;401 Cedar St;875 Redwood St;Male;29;DEF Bank;No
+852;21/09/2023;15:59;MasterCard;Tap;313.92;Online;Grocery;UK;421 Elm St;901 Redwood St;Female;52;XYZ Bank;No
+853;17/09/2023;13:27;MasterCard;PIN;63.93;ATM;Clothing;USA;10 Pine St;925 Main St;Male;28;ABC Bank;No
+854;23/09/2023;16:39;MasterCard;PIN;376.98;Online;Grocery;UK;269 Elm St;501 Main St;Female;28;XYZ Bank;No
+855;08/10/2023;21:03;Visa;PIN;99.15;POS;Grocery;USA;624 Cedar St;490 Cedar St;Male;20;XYZ Bank;No
+856;19/09/2023;04:59;MasterCard;PIN;215.42;POS;Food;Canada;784 Maple St;126 Maple St;Female;55;ABC Bank;Yes
+857;21/10/2023;08:43;Visa;Tap;32.68;ATM;Clothing;UK;35 Pine St;547 Pine St;Female;34;DEF Bank;No
+858;10/10/2023;01:56;MasterCard;PIN;75.07;POS;Electronics;Spain;761 Redwood St;138 Maple St;Female;31;ABC Bank;No
+859;08/10/2023;02:32;MasterCard;PIN;218.84;Online;Clothing;USA;935 Maple St;746 Main St;Male;39;DEF Bank;No
+860;08/10/2023;20:49;MasterCard;Tap;139.49;Online;ATM Withdrawal;USA;110 Pine St;19 Birch St;Male;54;DEF Bank;No
+861;02/10/2023;17:23;MasterCard;Tap;228.48;ATM;Retail;Canada;723 Birch St;631 Cedar St;Female;34;DEF Bank;No
+862;07/10/2023;12:36;Visa;PIN;241.21;ATM;ATM Withdrawal;Spain;453 Birch St;363 Elm St;Female;35;XYZ Bank;No
+863;01/10/2023;16:47;MasterCard;PIN;173.47;Online;Retail;Germany;578 Redwood St;371 Oak St;Female;51;DEF Bank;No
+864;17/10/2023;01:48;Visa;PIN;325.56;Online;ATM Withdrawal;Spain;904 Birch St;85 Redwood St;Male;50;ABC Bank;No
+865;28/09/2023;09:51;MasterCard;Tap;285.24;POS;Electronics;France;992 Pine St;450 Maple St;Male;44;XYZ Bank;No
+866;27/09/2023;15:30;Visa;Tap;465.21;POS;Food;Canada;99 Maple St;631 Elm St;Male;20;DEF Bank;No
+867;06/10/2023;18:50;Visa;Tap;57.12;Online;Electronics;Italy;559 Maple St;939 Cedar St;Female;19;DEF Bank;No
+868;11/10/2023;07:24;MasterCard;PIN;331.98;ATM;ATM Withdrawal;UK;822 Birch St;369 Main St;Male;23;ABC Bank;No
+869;22/09/2023;10:03;MasterCard;Tap;465.72;ATM;ATM Withdrawal;France;303 Maple St;723 Main St;Male;68;DEF Bank;No
+870;20/10/2023;09:11;MasterCard;PIN;343.43;Online;Retail;France;596 Oak St;396 Oak St;Female;24;ABC Bank;No
+871;19/09/2023;18:29;Visa;Tap;332.44;Online;Retail;UK;974 Oak St;960 Cedar St;Female;47;ABC Bank;No
+872;17/10/2023;07:34;Visa;Tap;267.95;POS;Electronics;UK;908 Elm St;701 Redwood St;Female;69;DEF Bank;No
+873;23/09/2023;02:43;MasterCard;Tap;426.64;Online;Electronics;Canada;322 Pine St;812 Oak St;Female;52;ABC Bank;No
+874;27/09/2023;22:43;MasterCard;PIN;413.92;ATM;ATM Withdrawal;Canada;959 Oak St;549 Pine St;Female;37;ABC Bank;Yes
+875;13/10/2023;02:37;Visa;PIN;399.23;Online;Food;France;690 Pine St;613 Redwood St;Female;41;XYZ Bank;No
+876;17/09/2023;04:05;Visa;Tap;160.15;POS;Grocery;Canada;67 Maple St;299 Pine St;Female;26;XYZ Bank;No
+877;20/10/2023;18:46;Visa;Tap;98.59;Online;Retail;Italy;828 Main St;260 Elm St;Female;53;XYZ Bank;No
+878;23/09/2023;20:05;MasterCard;Tap;260.65;Online;Clothing;France;802 Pine St;223 Cedar St;Male;32;XYZ Bank;Yes
+879;24/09/2023;07:46;MasterCard;PIN;51.53;POS;Electronics;Spain;757 Main St;263 Birch St;Female;31;ABC Bank;No
+880;28/09/2023;17:26;MasterCard;Tap;337.13;ATM;Clothing;Germany;912 Redwood St;991 Oak St;Male;50;DEF Bank;No
+881;24/09/2023;13:16;Visa;Tap;102.2;POS;Food;France;697 Elm St;348 Elm St;Male;36;ABC Bank;No
+882;25/09/2023;03:14;Visa;Tap;457.63;ATM;Food;UK;827 Pine St;176 Elm St;Female;18;ABC Bank;No
+883;12/10/2023;13:13;MasterCard;Tap;50.59;POS;Clothing;France;202 Maple St;896 Pine St;Male;22;DEF Bank;No
+884;18/09/2023;15:55;MasterCard;PIN;26.29;POS;Retail;Spain;463 Elm St;956 Maple St;Male;26;DEF Bank;No
+885;24/09/2023;16:07;MasterCard;PIN;400.16;POS;Electronics;Spain;259 Cedar St;383 Cedar St;Female;29;XYZ Bank;Yes
+886;19/10/2023;15:23;Visa;Tap;258.41;Online;Clothing;Germany;322 Main St;421 Cedar St;Male;38;XYZ Bank;No
+887;19/10/2023;09:02;Visa;Tap;113.34;POS;ATM Withdrawal;USA;86 Main St;441 Oak St;Male;26;DEF Bank;No
+888;27/09/2023;21:23;MasterCard;PIN;209.72;POS;Grocery;France;982 Birch St;938 Cedar St;Female;50;DEF Bank;No
+889;02/10/2023;01:57;MasterCard;Tap;375.5;POS;Retail;Italy;636 Redwood St;665 Pine St;Female;63;DEF Bank;No
+890;23/09/2023;20:29;Visa;PIN;162.46;POS;Grocery;UK;293 Elm St;545 Birch St;Female;55;ABC Bank;No
+891;18/09/2023;00:43;Visa;PIN;446.05;ATM;Clothing;France;20 Birch St;257 Cedar St;Female;54;XYZ Bank;No
+892;01/10/2023;02:52;Visa;Tap;79.67;POS;ATM Withdrawal;France;368 Oak St;597 Cedar St;Female;52;DEF Bank;Yes
+893;04/10/2023;12:43;MasterCard;Tap;68.91;POS;Grocery;UK;819 Birch St;710 Maple St;Female;35;ABC Bank;No
+894;16/10/2023;17:42;MasterCard;Tap;287.05;POS;ATM Withdrawal;USA;806 Oak St;80 Redwood St;Female;37;XYZ Bank;No
+895;11/10/2023;10:50;MasterCard;PIN;416.99;ATM;Retail;Spain;567 Main St;611 Maple St;Male;54;DEF Bank;No
+896;25/09/2023;14:14;MasterCard;PIN;398.35;Online;Grocery;France;302 Maple St;97 Pine St;Female;62;DEF Bank;No
+897;19/10/2023;12:58;Visa;Tap;475.68;ATM;Clothing;Spain;618 Oak St;949 Elm St;Male;55;XYZ Bank;No
+898;25/09/2023;22:26;Visa;Tap;69.9;Online;Clothing;Canada;630 Birch St;25 Cedar St;Female;47;ABC Bank;No
+899;26/09/2023;22:11;MasterCard;Tap;224.2;Online;Grocery;Canada;756 Cedar St;444 Maple St;Male;44;XYZ Bank;No
+900;25/09/2023;23:17;MasterCard;PIN;284.23;POS;Food;Spain;611 Oak St;441 Cedar St;Male;38;ABC Bank;No
+901;23/09/2023;00:03;Visa;Tap;117.74;ATM;Grocery;UK;910 Oak St;183 Birch St;Male;33;ABC Bank;No
+902;26/09/2023;12:58;Visa;PIN;193.17;POS;Retail;UK;388 Redwood St;103 Main St;Female;58;XYZ Bank;No
+903;26/09/2023;00:18;MasterCard;Tap;26.35;ATM;Retail;Spain;634 Oak St;746 Pine St;Male;61;DEF Bank;No
+904;24/09/2023;08:05;Visa;PIN;489.5;POS;Retail;Italy;517 Elm St;684 Oak St;Male;33;XYZ Bank;No
+905;29/09/2023;17:36;Visa;Tap;389.82;ATM;Food;France;666 Pine St;435 Elm St;Male;37;DEF Bank;No
+906;26/09/2023;06:15;MasterCard;PIN;357.9;ATM;ATM Withdrawal;Spain;128 Birch St;593 Pine St;Female;44;ABC Bank;No
+907;17/09/2023;19:09;Visa;PIN;59.91;Online;Retail;Canada;393 Oak St;117 Oak St;Male;45;ABC Bank;No
+908;14/10/2023;17:19;MasterCard;PIN;488.09;POS;Electronics;UK;684 Pine St;748 Oak St;Female;63;ABC Bank;No
+909;11/10/2023;05:35;MasterCard;PIN;473.38;ATM;ATM Withdrawal;Spain;854 Redwood St;386 Redwood St;Male;69;DEF Bank;No
+910;05/10/2023;06:02;MasterCard;Tap;494.78;ATM;Retail;France;482 Main St;307 Pine St;Female;58;DEF Bank;No
+911;06/10/2023;00:43;Visa;Tap;298.78;POS;Clothing;Spain;673 Maple St;952 Maple St;Female;28;DEF Bank;No
+912;10/10/2023;21:23;Visa;PIN;159.02;ATM;Clothing;France;259 Oak St;507 Oak St;Male;64;DEF Bank;No
+913;23/09/2023;06:03;MasterCard;Tap;354.25;Online;Food;Spain;529 Main St;375 Main St;Male;46;XYZ Bank;Yes
+914;22/09/2023;21:23;MasterCard;Tap;470.02;Online;Food;USA;466 Maple St;994 Elm St;Male;28;XYZ Bank;No
+915;05/10/2023;22:03;MasterCard;Tap;142.66;ATM;Electronics;Germany;522 Maple St;581 Main St;Male;67;XYZ Bank;No
+916;13/10/2023;03:32;Visa;PIN;330.81;Online;Electronics;Spain;396 Cedar St;336 Maple St;Female;66;ABC Bank;No
+917;26/09/2023;12:01;Visa;Tap;337.58;Online;Clothing;USA;235 Elm St;210 Oak St;Female;42;DEF Bank;No
+918;19/10/2023;18:52;MasterCard;Tap;199.77;POS;Clothing;USA;522 Elm St;469 Oak St;Female;56;XYZ Bank;No
+919;18/10/2023;16:04;Visa;PIN;36.93;POS;Electronics;France;442 Cedar St;554 Oak St;Male;28;ABC Bank;No
+920;30/09/2023;23:12;Visa;PIN;331.15;Online;ATM Withdrawal;Italy;922 Oak St;703 Elm St;Male;50;XYZ Bank;No
+921;07/10/2023;15:18;Visa;Tap;29.78;Online;ATM Withdrawal;Italy;580 Elm St;907 Main St;Male;51;ABC Bank;No
+922;07/10/2023;09:11;MasterCard;Tap;371.33;ATM;Food;Italy;180 Pine St;11 Cedar St;Female;24;ABC Bank;No
+923;20/09/2023;19:57;MasterCard;Tap;136.47;POS;Food;Spain;44 Redwood St;620 Main St;Male;25;XYZ Bank;No
+924;07/10/2023;19:55;MasterCard;PIN;284.55;POS;ATM Withdrawal;Spain;638 Oak St;96 Oak St;Male;31;XYZ Bank;No
+925;07/10/2023;21:27;Visa;PIN;183.43;Online;ATM Withdrawal;Spain;69 Pine St;560 Elm St;Female;63;DEF Bank;No
+926;01/10/2023;06:26;Visa;PIN;96.65;Online;Clothing;Germany;363 Maple St;365 Maple St;Male;56;XYZ Bank;No
+927;14/10/2023;10:09;Visa;Tap;406.62;POS;Clothing;UK;539 Birch St;60 Redwood St;Female;53;DEF Bank;No
+928;21/09/2023;05:37;Visa;PIN;408.9;Online;Grocery;Italy;630 Birch St;865 Oak St;Female;52;ABC Bank;Yes
+929;28/09/2023;18:00;Visa;PIN;22.42;POS;Food;Italy;724 Pine St;122 Main St;Male;41;ABC Bank;No
+930;01/10/2023;09:05;Visa;PIN;300.49;ATM;Electronics;Germany;49 Pine St;616 Redwood St;Male;54;XYZ Bank;No
+931;03/10/2023;22:57;Visa;PIN;449.07;Online;Retail;Spain;379 Redwood St;612 Elm St;Female;62;DEF Bank;No
+932;22/09/2023;21:51;Visa;PIN;199.3;POS;Electronics;USA;390 Birch St;888 Birch St;Male;65;DEF Bank;No
+933;17/09/2023;18:14;MasterCard;PIN;209.38;ATM;ATM Withdrawal;France;148 Redwood St;598 Maple St;Male;20;DEF Bank;No
+934;19/09/2023;06:40;Visa;PIN;236.87;POS;Food;France;841 Redwood St;389 Cedar St;Female;67;XYZ Bank;No
+935;18/09/2023;07:51;MasterCard;Tap;62.4;Online;Clothing;Canada;455 Redwood St;877 Main St;Female;48;XYZ Bank;No
+936;13/10/2023;09:51;MasterCard;Tap;463.11;POS;Retail;Italy;192 Pine St;598 Cedar St;Male;48;XYZ Bank;No
+937;19/09/2023;16:38;MasterCard;PIN;495.03;Online;Grocery;Spain;566 Redwood St;914 Main St;Female;58;XYZ Bank;No
+938;21/09/2023;09:08;MasterCard;Tap;219.48;Online;Clothing;France;593 Birch St;359 Cedar St;Male;18;ABC Bank;No
+939;19/10/2023;20:44;Visa;Tap;99.27;ATM;Clothing;France;406 Oak St;906 Pine St;Female;33;ABC Bank;No
+940;16/10/2023;14:30;Visa;Tap;211.8;Online;Electronics;Spain;856 Elm St;776 Main St;Male;61;XYZ Bank;No
+941;27/09/2023;02:12;Visa;PIN;185.4;Online;ATM Withdrawal;Italy;543 Maple St;803 Elm St;Male;20;ABC Bank;No
+942;19/09/2023;21:08;Visa;PIN;122.88;Online;Food;Germany;716 Oak St;686 Main St;Female;38;XYZ Bank;No
+943;03/10/2023;16:56;Visa;PIN;108.96;Online;Electronics;UK;240 Maple St;81 Maple St;Male;51;ABC Bank;No
+944;20/09/2023;16:42;MasterCard;Tap;465.19;POS;Electronics;USA;976 Main St;133 Redwood St;Male;67;DEF Bank;No
+945;14/10/2023;08:54;MasterCard;Tap;353.73;ATM;Food;Italy;263 Elm St;694 Main St;Male;41;ABC Bank;No
+946;15/10/2023;01:45;MasterCard;Tap;268.59;ATM;Clothing;Canada;540 Oak St;836 Cedar St;Male;43;XYZ Bank;No
+947;09/10/2023;13:10;Visa;Tap;101.81;ATM;Grocery;Spain;803 Birch St;482 Maple St;Male;18;DEF Bank;No
+948;21/10/2023;11:26;MasterCard;Tap;450.24;Online;ATM Withdrawal;USA;590 Pine St;625 Birch St;Female;24;XYZ Bank;No
+949;05/10/2023;14:01;MasterCard;Tap;315.93;Online;Food;Spain;879 Redwood St;47 Main St;Female;36;ABC Bank;No
+950;10/10/2023;09:48;MasterCard;PIN;284.56;POS;Clothing;France;854 Redwood St;216 Pine St;Male;41;XYZ Bank;Yes
+951;20/10/2023;04:21;MasterCard;PIN;143.88;Online;Clothing;UK;311 Maple St;730 Maple St;Female;70;XYZ Bank;Yes
+952;03/10/2023;02:06;Visa;PIN;296.24;Online;ATM Withdrawal;Italy;610 Redwood St;185 Pine St;Female;25;XYZ Bank;No
+953;21/10/2023;17:37;MasterCard;Tap;278.82;Online;Electronics;UK;109 Elm St;853 Elm St;Female;55;DEF Bank;No
+954;14/10/2023;03:29;MasterCard;PIN;474.3;ATM;Clothing;Germany;20 Pine St;239 Pine St;Male;25;ABC Bank;No
+955;11/10/2023;02:14;Visa;PIN;338.43;Online;ATM Withdrawal;Spain;351 Cedar St;36 Main St;Male;32;XYZ Bank;No
+956;21/09/2023;05:15;MasterCard;Tap;321.89;Online;Food;Canada;153 Birch St;94 Elm St;Female;23;DEF Bank;No
+957;22/09/2023;10:33;Visa;PIN;102.79;ATM;Retail;USA;345 Maple St;701 Maple St;Female;20;DEF Bank;No
+958;19/10/2023;13:34;MasterCard;Tap;449.9;POS;Retail;UK;931 Pine St;281 Main St;Female;63;ABC Bank;Yes
+959;15/10/2023;08:01;MasterCard;PIN;424.89;ATM;Grocery;USA;288 Redwood St;608 Maple St;Female;60;DEF Bank;No
+960;02/10/2023;22:05;Visa;Tap;129.0;Online;ATM Withdrawal;UK;569 Oak St;282 Elm St;Female;39;DEF Bank;No
+961;24/09/2023;09:27;MasterCard;PIN;184.25;ATM;ATM Withdrawal;Italy;747 Maple St;199 Birch St;Female;28;XYZ Bank;No
+962;21/10/2023;12:54;Visa;PIN;437.04;Online;Clothing;Spain;950 Oak St;63 Oak St;Female;41;DEF Bank;No
+963;19/10/2023;03:06;Visa;PIN;294.17;POS;Clothing;USA;238 Redwood St;377 Pine St;Male;31;DEF Bank;No
+964;26/09/2023;14:23;Visa;PIN;481.2;ATM;Clothing;Spain;32 Pine St;396 Redwood St;Male;56;XYZ Bank;No
+965;26/09/2023;11:29;MasterCard;PIN;107.45;Online;Grocery;France;429 Redwood St;770 Elm St;Male;42;XYZ Bank;No
+966;02/10/2023;08:13;MasterCard;PIN;426.62;POS;Food;Italy;484 Birch St;308 Pine St;Male;52;DEF Bank;No
+967;28/09/2023;22:04;Visa;Tap;94.38;ATM;Grocery;UK;859 Oak St;586 Cedar St;Female;32;DEF Bank;No
+968;18/09/2023;11:08;MasterCard;PIN;491.06;POS;Grocery;Spain;495 Oak St;362 Birch St;Male;56;ABC Bank;No
+969;10/10/2023;03:16;Visa;PIN;372.98;Online;Retail;Germany;650 Birch St;254 Redwood St;Male;49;DEF Bank;No
+970;12/10/2023;14:12;Visa;Tap;244.74;ATM;ATM Withdrawal;Canada;371 Birch St;362 Pine St;Female;31;ABC Bank;No
+971;30/09/2023;15:42;MasterCard;Tap;375.38;POS;Food;Germany;735 Elm St;98 Birch St;Male;52;ABC Bank;No
+972;05/10/2023;05:35;Visa;PIN;388.38;ATM;Retail;Spain;497 Cedar St;226 Oak St;Female;70;ABC Bank;No
+973;21/09/2023;20:42;Visa;PIN;190.11;POS;Retail;Germany;416 Elm St;517 Cedar St;Male;20;XYZ Bank;No
+974;30/09/2023;08:55;MasterCard;Tap;156.97;Online;Grocery;Canada;747 Pine St;63 Oak St;Female;39;DEF Bank;No
+975;30/09/2023;19:26;Visa;Tap;217.48;POS;Food;France;702 Pine St;341 Cedar St;Male;44;ABC Bank;No
+976;27/09/2023;13:37;MasterCard;PIN;318.98;POS;Food;Spain;911 Pine St;913 Main St;Male;38;ABC Bank;No
+977;13/10/2023;10:06;MasterCard;PIN;154.01;POS;Retail;USA;666 Elm St;381 Oak St;Male;45;DEF Bank;No
+978;05/10/2023;01:49;Visa;PIN;337.5;Online;Grocery;Canada;912 Main St;580 Pine St;Female;24;ABC Bank;Yes
+979;12/10/2023;23:17;Visa;PIN;88.72;Online;Clothing;Germany;518 Oak St;187 Elm St;Female;69;ABC Bank;No
+980;13/10/2023;11:32;MasterCard;PIN;365.17;ATM;Electronics;Germany;67 Pine St;305 Birch St;Female;46;ABC Bank;No
+981;16/10/2023;23:03;MasterCard;PIN;211.81;Online;Electronics;Italy;780 Maple St;839 Pine St;Female;65;ABC Bank;No
+982;18/10/2023;03:26;Visa;PIN;360.83;ATM;ATM Withdrawal;UK;612 Elm St;782 Maple St;Female;54;XYZ Bank;No
+983;23/09/2023;18:37;Visa;Tap;410.82;POS;Food;USA;972 Cedar St;847 Cedar St;Female;48;XYZ Bank;No
+984;11/10/2023;12:56;Visa;PIN;70.76;POS;Food;UK;365 Maple St;441 Pine St;Female;38;DEF Bank;No
+985;17/09/2023;14:04;MasterCard;PIN;146.2;ATM;Retail;Italy;750 Main St;321 Oak St;Male;59;DEF Bank;No
+986;13/10/2023;16:29;MasterCard;Tap;232.91;ATM;Grocery;Germany;687 Birch St;55 Cedar St;Female;36;DEF Bank;No
+987;29/09/2023;06:32;Visa;PIN;479.09;ATM;Food;Germany;683 Maple St;225 Cedar St;Female;70;ABC Bank;No
+988;17/10/2023;01:12;Visa;PIN;345.33;POS;Food;Spain;234 Maple St;882 Elm St;Male;65;DEF Bank;No
+989;15/10/2023;11:33;MasterCard;PIN;294.82;Online;Food;Spain;826 Birch St;13 Elm St;Female;50;XYZ Bank;No
+990;26/09/2023;00:21;MasterCard;Tap;463.17;ATM;Grocery;Spain;642 Oak St;432 Birch St;Female;22;ABC Bank;No
+991;13/10/2023;12:51;Visa;Tap;316.33;ATM;Retail;France;487 Redwood St;413 Cedar St;Male;67;DEF Bank;No
+992;26/09/2023;23:40;Visa;PIN;276.48;ATM;Electronics;Canada;24 Cedar St;375 Maple St;Female;29;XYZ Bank;No
+993;17/10/2023;17:02;MasterCard;PIN;260.62;POS;Retail;UK;298 Pine St;397 Oak St;Female;57;DEF Bank;No
+994;22/10/2023;20:30;Visa;Tap;260.08;POS;Electronics;UK;102 Birch St;651 Elm St;Male;40;XYZ Bank;No
+995;18/09/2023;02:34;Visa;PIN;98.67;POS;Retail;Canada;938 Redwood St;662 Birch St;Female;26;ABC Bank;No
+996;20/10/2023;10:54;Visa;PIN;105.81;Online;Clothing;Canada;132 Main St;669 Main St;Female;46;XYZ Bank;No
+997;20/10/2023;12:03;MasterCard;PIN;360.21;Online;Food;Germany;491 Pine St;199 Birch St;Female;61;DEF Bank;No
+998;30/09/2023;02:30;Visa;PIN;260.24;ATM;Clothing;France;110 Redwood St;173 Main St;Male;38;DEF Bank;No
+999;17/10/2023;13:14;Visa;Tap;416.61;POS;ATM Withdrawal;France;422 Maple St;724 Birch St;Male;39;ABC Bank;No
+1000;30/09/2023;11:42;Visa;PIN;111.01;ATM;Grocery;Germany;397 Cedar St;853 Cedar St;Female;68;ABC Bank;No
