@@ -27,7 +27,7 @@ if __name__ == "__main__":
     }
 
     # Prepara chamada
-    url = "http://192.168.0.188:8081/modelo01"
+    url = "http://192.168.0.188:8082/modelo01"
     headers = {'Content-Type': 'application/json'}
     # Convertendo o dicionário Python para uma string JSON
     data_json_str = json.dumps(data_json)
